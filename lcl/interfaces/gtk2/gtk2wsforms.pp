@@ -1034,11 +1034,60 @@ begin
   SetCallbacks(P, WidgetInfo);
 end;
 
+function GrabWidgetMotionNotify(Widget:PGTKWidget; Event: PGDKEventMotion;
+  Data: gPointer): GBoolean; cdecl;
+var
+  AWinControl: TWinControl absolute Data;
+  Fixed: PGtkWidget;
+begin
+  Result := CallBackDefaultReturn;
+  //ensure is a HintWindow to avoid clash with the ordinary callback
+  if AWinControl is THintWindow then
+  begin
+    Fixed := GetFixedWidget(PGtkWindow(AWinControl.Handle));
+    Result := gtkMotionNotify(Fixed, Event, AWinControl);
+  end;
+end;
+
+function GrabWidgetButtonPressNotify(Widget:PGTKWidget; Event: PGdkEventButton;
+  Data: gPointer): GBoolean; cdecl;
+var
+  AWinControl: TWinControl absolute Data;
+  Fixed: PGtkWidget;
+begin
+  Result := CallBackDefaultReturn;
+  //ensure is a HintWindow to avoid clash with the ordinary callback
+  if AWinControl is THintWindow then
+  begin
+    Fixed := GetFixedWidget(PGtkWindow(AWinControl.Handle));
+    Result := gtkMouseBtnPress(Fixed, Event, AWinControl);
+  end;
+end;
+
 class procedure TGtk2WSHintWindow.ShowHide(const AWinControl: TWinControl);
+var
+  GrabWidget: PGtkWidget;
+  ShouldBeVisible: Boolean;
 begin
   if not WSCheckHandleAllocated(AWinControl, 'SetColor') then
     exit;
-  Gtk2WidgetSet.SetVisible(AWinControl, AWinControl.HandleObjectShouldBeVisible);
+  ShouldBeVisible := AWinControl.HandleObjectShouldBeVisible;
+  GrabWidget := gtk_grab_get_current;
+  if GrabWidget <> nil then
+  begin
+    if ShouldBeVisible then
+    begin
+      g_signal_connect(GrabWidget, 'motion-notify-event', TGTKSignalFunc(@GrabWidgetMotionNotify), AWinControl);
+      g_signal_connect(GrabWidget, 'button-press-event', TGTKSignalFunc(@GrabWidgetButtonPressNotify), AWinControl);
+    end
+    else
+    begin
+      g_signal_handlers_disconnect_by_func(GrabWidget, TGTKSignalFunc(@GrabWidgetMotionNotify), AWinControl);
+      g_signal_handlers_disconnect_by_func(GrabWidget, TGTKSignalFunc(@GrabWidgetButtonPressNotify), AWinControl);
+    end;
+  end;
+
+  Gtk2WidgetSet.SetVisible(AWinControl, ShouldBeVisible);
   InvalidateLastWFPResult(AWinControl, AWinControl.BoundsRect);
 end;
 
