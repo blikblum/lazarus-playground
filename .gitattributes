@@ -2572,6 +2572,7 @@ components/lazreport/samples/editor/calleditorwithpkg.res svn_mime_002dtype=appl
 components/lazreport/samples/editor/csvtest.lrf svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=LF
 components/lazreport/samples/editor/cuadros.lrf svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 components/lazreport/samples/editor/custompreview.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/samples/editor/custompreview.lrt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/samples/editor/custompreview.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazreport/samples/editor/db/companies.dbf svn_mime_002dtype=application%2Foctet-stream
 components/lazreport/samples/editor/db/countries.dbf svn_mime_002dtype=application%2Foctet-stream
@@ -2590,6 +2591,7 @@ components/lazreport/samples/editor/languages/calleditorwithpkg.pt_BR.po svn_mim
 components/lazreport/samples/editor/languages/calleditorwithpkg.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/samples/editor/languages/calleditorwithpkg.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/samples/editor/maincalleditor.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/samples/editor/maincalleditor.lrt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/samples/editor/maincalleditor.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazreport/samples/editor/masterdetail.lrf svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=LF
 components/lazreport/samples/editor/multisize.lrf svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
