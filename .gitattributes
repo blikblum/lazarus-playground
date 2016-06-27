@@ -3283,6 +3283,7 @@ components/opengl/openglcontext.pas svn_mime_002dtype=text%2Fplain svn_eol_002ds
 components/opengl/openglcontext.res svn_mime_002dtype=application%2Foctet-stream
 components/opengl/topenglcontrol.xpm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/packagetabs/languages/packagetabsstr.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
