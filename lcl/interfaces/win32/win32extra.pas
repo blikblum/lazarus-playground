@@ -39,6 +39,14 @@ const
   // not defined in fpc 2.4.3
   GCLP_HBRBACKGROUND                = -10;
 
+  //power management (WM_POWERBROADCAST)
+  PBT_APMPOWERSTATUSCHANGE          = $A;
+  PBT_APMRESUMEAUTOMATIC            = $12;
+  PBT_APMRESUMESUSPEND              = $7;
+  PBT_APMSUSPEND                    = $4;
+  PBT_POWERSETTINGCHANGE            = $8013;
+
+
 type
   tagMENUBARINFO = record
     cbSize: DWORD;

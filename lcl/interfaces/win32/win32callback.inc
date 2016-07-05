@@ -2350,6 +2350,23 @@ begin
       if (Application<>nil) and Application.MainFormOnTaskBar and not Win32WidgetSet.AppMinimizing then
         RestorePopups;
     end;
+    WM_DISPLAYCHANGE:
+    begin
+      DebugLn('WM_DISPLAYCHANGE');
+      if lWinControl <> nil then
+        DebugLn(lWinControl.ClassName, ' - ', lWinControl.Name);
+    end;
+    WM_POWERBROADCAST:
+    begin
+      DebugLn('WM_POWERBROADCAST');
+      if lWinControl <> nil then
+        DebugLn(lWinControl.ClassName, ' - ', lWinControl.Name);
+      if (WParam = PBT_APMRESUMEAUTOMATIC) and (Application.MainFormHandle = Window) then
+      begin
+        Screen.UpdateMonitors;
+        DebugLn('UpdateMonitors');
+      end;
+    end;
   else
     // pass along user defined messages
     if Msg >= WM_USER then
