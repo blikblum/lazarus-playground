@@ -1916,6 +1916,15 @@ begin
   end;
 end;
 
+function MonitorListToStr(List: TMonitorList): String;
+var
+  i: Integer;
+begin
+  Result := IntToStr(List.Count) + ' ';
+  for i := 0 to List.Count - 1 do
+    Result := Result + IntToStr(List[i].Handle) + ' ';
+end;
+
 // This is called from the actual WindowProc.
 
 function TWindowProcHelper.DoWindowProc: LResult;
@@ -2354,17 +2363,21 @@ begin
     begin
       DebugLn('WM_DISPLAYCHANGE');
       if lWinControl <> nil then
-        DebugLn(lWinControl.ClassName, ' - ', lWinControl.Name);
+        DebugLn('  ', lWinControl.ClassName, ' - ', lWinControl.Name);
+      DebugLn('  Monitors: ', MonitorListToStr(Screen.TheMonitors));
+      Screen.UpdateMonitors;
+      DebugLn('  Monitors After: ', MonitorListToStr(Screen.TheMonitors));
     end;
     WM_POWERBROADCAST:
     begin
       DebugLn('WM_POWERBROADCAST');
       if lWinControl <> nil then
-        DebugLn(lWinControl.ClassName, ' - ', lWinControl.Name);
+        DebugLn('  ', lWinControl.ClassName, ' - ', lWinControl.Name);
+      DebugLn('  Monitors: ', MonitorListToStr(Screen.TheMonitors));
       if (WParam = PBT_APMRESUMEAUTOMATIC) and (Application.MainFormHandle = Window) then
       begin
         Screen.UpdateMonitors;
-        DebugLn('UpdateMonitors');
+        DebugLn('  Monitors After: ', MonitorListToStr(Screen.TheMonitors));
       end;
     end;
   else

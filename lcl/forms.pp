@@ -1096,6 +1096,7 @@ type
     function MonitorFromWindow(const Handle: THandle;
       MonitorDefault: TMonitorDefaultTo = mdNearest): TMonitor;
   public
+    property TheMonitors: TMonitorList read FMonitors;
     property ActiveControl: TWinControl read FActiveControl;
     property ActiveCustomForm: TCustomForm read FActiveCustomForm;
     property ActiveForm: TForm read FActiveForm;
