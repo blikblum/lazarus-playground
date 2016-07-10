@@ -3717,7 +3717,6 @@ components/sqlite/languages/sqlitecompstrings.fr.po svn_mime_002dtype=text%2Fpla
 components/sqlite/languages/sqlitecompstrings.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/sqlite/lib/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/sqlite/registersqlite.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/registersqlite3.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/sqlite3icon.res svn_mime_002dtype=application%2Foctet-stream
