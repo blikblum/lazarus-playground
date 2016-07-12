@@ -3091,6 +3091,8 @@ components/lazutils/lookupstringlist.pas svn_mime_002dtype=text%2Fpascal svn_eol
 components/lazutils/masks.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/paswstring.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/test svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+components/lazutils/test/LazUnicodeTest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazutils/test/LazUnicodeTest.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/test/TestLazStorageMem.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/test/TestLazStorageMem.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/test/testlazstoragememcase1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
