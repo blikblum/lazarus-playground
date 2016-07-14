@@ -3605,6 +3605,7 @@ components/rtticontrols/ttiradiogroup.png svn_mime_002dtype=image%2Fpng
 components/rtticontrols/ttispinedit.png svn_mime_002dtype=image%2Fpng
 components/rtticontrols/ttitrackbar.png svn_mime_002dtype=image%2Fpng
 components/rx/apputils.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/rx/lib/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/rx/mrulist.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/rx/mrulist.res svn_mime_002dtype=application%2Foctet-stream
 components/rx/placement.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -3719,6 +3720,7 @@ components/sqlite/languages/sqlitecompstrings.fr.po svn_mime_002dtype=text%2Fpla
 components/sqlite/languages/sqlitecompstrings.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/sqlite/lib/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/sqlite/registersqlite.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/registersqlite3.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/sqlite3icon.res svn_mime_002dtype=application%2Foctet-stream
