@@ -1564,6 +1564,10 @@ components/fpvectorial/examples/fpvtextwritetest2.lpi svn_mime_002dtype=text%2Fp
 components/fpvectorial/examples/fpvtextwritetest2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/examples/fpvwritetest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/examples/fpvwritetest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/examples/wmf_mainform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/examples/wmf_mainform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/examples/wmfviewer.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/examples/wmfviewer.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvectbuildunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvectorial.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvectorial.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
