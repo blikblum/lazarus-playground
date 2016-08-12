@@ -1571,6 +1571,7 @@ components/fpvectorial/fpvectorialpkg.lpk svn_mime_002dtype=text%2Fplain svn_eol
 components/fpvectorial/fpvectorialpkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvtocanvas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/fpvwmf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/htmlvectorialreader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fpvectorial/lasvectorialreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/lazvectorialreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1588,6 +1589,7 @@ components/fpvectorial/svgvectorialwriter.pas svn_mime_002dtype=text%2Fplain svn
 components/fpvectorial/svgzvectorialreader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fpvectorial/tools/laszip/laszip.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/tools/laszip/laszip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/wmfvectorialreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpweb/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpweb/demo/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpweb/fpideexteditorinsertfilenameunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
