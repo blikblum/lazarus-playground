@@ -1594,6 +1594,7 @@ components/fpvectorial/svgzvectorialreader.pas svn_mime_002dtype=text%2Fpascal s
 components/fpvectorial/tools/laszip/laszip.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/tools/laszip/laszip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/wmfvectorialreader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/wmfvectorialwriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpweb/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpweb/demo/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpweb/fpideexteditorinsertfilenameunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
