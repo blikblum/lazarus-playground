@@ -8222,6 +8222,8 @@ test/customdrawn/lazdialogs_test.res svn_mime_002dtype=application%2Foctet-strea
 test/customdrawn/mainform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/customdrawn/mainform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/hello.ahk svn_mime_002dtype=text%2Fplain svn_keywords=Id svn_eol_002dstyle=native
+test/ideintf/testmenuintf.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+test/ideintf/testmenuintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/TestLazLogger.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 test/lazutils/testavglvltree.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/testlazloggercase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
