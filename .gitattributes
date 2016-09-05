@@ -2785,6 +2785,19 @@ components/lazreport/source/addons/lrEmailExport/lremailappthebat.pas svn_mime_0
 components/lazreport/source/addons/lrEmailExport/lremailexport.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrEmailExport/lremailexport.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazreport/source/addons/lrEmailExport/lremailexport.res svn_mime_002dtype=application%2Foctet-stream
+components/lazreport/source/addons/lrFclPDFExport/demo/aaa.lrf svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=LF
+components/lazreport/source/addons/lrFclPDFExport/demo/project1.ico svn_mime_002dtype=application%2Foctet-stream
+components/lazreport/source/addons/lrFclPDFExport/demo/project1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/demo/project1.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/demo/project1.res svn_mime_002dtype=application%2Foctet-stream
+components/lazreport/source/addons/lrFclPDFExport/demo/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/demo/unit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/lr_e_fclpdf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/lr_pdfexport.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/lr_pdfexport.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/lrpdfexport.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/lrpdfexport_icon.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/lrFclPDFExport/resources/TlrPDFExport.png svn_mime_002dtype=image%2Fpng
 components/lazreport/source/addons/lrOfficeImport/lr_officeimport.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrOfficeImport/lr_officeimport.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazreport/source/addons/lrOfficeImport/lr_officeimport_img.res svn_mime_002dtype=application%2Foctet-stream
