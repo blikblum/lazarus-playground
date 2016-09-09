@@ -3509,6 +3509,7 @@ components/printers/win32/winprndialogs.inc svn_mime_002dtype=text%2Fpascal svn_
 components/printers/win32/winutilprn.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/printers/win32/winutilprnconst.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/projectgroups/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projectgroups/languages/projectgroupstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/lazprojectgroup.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/lazprojectgroups.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/projectgroup.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
