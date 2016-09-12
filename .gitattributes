@@ -3511,6 +3511,7 @@ components/printers/win32/winutilprnconst.inc svn_mime_002dtype=text%2Fpascal sv
 components/projectgroups/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projectgroups/languages/projectgroupstrconst.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/lazprojectgroup.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
