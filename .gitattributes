@@ -5886,17 +5886,17 @@ examples/translation/languages/translation_demo.it.po svn_mime_002dtype=text%2Fp
 examples/translation/languages/translation_demo.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/languages/translation_demo.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/localizedforms.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/translation/localizedforms.lrt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/translation/localizedforms.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/localizedforms.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/translation/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/translation/main.lrt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/translation/main.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/main.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/translation/stringsunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/translation/translation_demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/translation_demo.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/translation/translation_demo.res svn_mime_002dtype=application%2Foctet-stream
 examples/translation/unit2.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/translation/unit2.lrt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/translation/unit2.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/unit2.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/trayicon/createbundle.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/trayicon/frmtest.pas svn_eol_002dstyle=native
