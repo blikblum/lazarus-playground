@@ -5292,7 +5292,7 @@ examples/codepageconverter/latin2 svn_keywords=Author+Date+Id+Revision svn_eol_0
 examples/codepageconverter/lazconverter.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/codepageconverter/lazconverter.lpr svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/codepageconverter/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-examples/codepageconverter/mainunit.lrt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+examples/codepageconverter/mainunit.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/codepageconverter/mainunit.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/codepageconverter/win1250 svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/codetools/jumptoimplementation/codetoolsexample1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
