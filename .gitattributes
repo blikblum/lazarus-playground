@@ -9151,12 +9151,16 @@ tools/install/win/readme.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+
 tools/install/win/svn2revisioninc.bat svn_mime_002dtype=text%2Fx-msdos-program svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/jsonviewer/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmmain.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmnewboolean.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmnewboolean.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmnewboolean.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmnewinteger.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmnewinteger.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmnewinteger.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmnewstring.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmnewstring.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmnewstring.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/jsonviewer.ico svn_mime_002dtype=application%2Foctet-stream
 tools/jsonviewer/jsonviewer.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
