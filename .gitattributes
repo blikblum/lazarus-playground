@@ -7001,6 +7001,7 @@ lcl/images/btnselfile.png svn_mime_002dtype=image%2Fpng
 lcl/images/btntime.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_abort.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_all.png svn_mime_002dtype=image%2Fpng
+lcl/images/buttons/btn_arrowright.png svn_mime_002dtype=application%2Foctet-stream
 lcl/images/buttons/btn_cancel.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_close.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_help.png svn_mime_002dtype=image%2Fpng
@@ -7042,6 +7043,7 @@ lcl/images/dialogs/build.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_00
 lcl/images/dialogs/dialog_confirmation.png svn_mime_002dtype=image%2Fpng
 lcl/images/dialogs/dialog_error.png svn_mime_002dtype=image%2Fpng
 lcl/images/dialogs/dialog_information.png svn_mime_002dtype=image%2Fpng
+lcl/images/dialogs/dialog_shield.png svn_mime_002dtype=application%2Foctet-stream
 lcl/images/dialogs/dialog_warning.png svn_mime_002dtype=image%2Fpng
 lcl/images/dock/lcl_dock_close.png svn_mime_002dtype=image%2Fpng
 lcl/images/dock/lcl_dock_images.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
@@ -7889,6 +7891,7 @@ lcl/lclmessageglue.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+
 lcl/lclproc.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lclrescache.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lclstrconsts.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+lcl/lcltaskdialog.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/lcltranslator.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lcltype.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lclunicodedata.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
