@@ -7229,6 +7229,7 @@ lcl/include/sysenvapis_unix.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyl
 lcl/include/sysenvapis_win.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/include/tabcontrol.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/tabsheet.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+lcl/include/taskdialog.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/include/tiffimage.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/togglebox.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/toolbar.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
