@@ -6284,6 +6284,8 @@ ide/mouseactiondialog.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 ide/mouseactiondialog.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/msgvieweditor.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/msgvieweditor.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+ide/multipastedlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/multipastedlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/multireplacedlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/multireplacedlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/newdialog.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
