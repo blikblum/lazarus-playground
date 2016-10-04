@@ -5598,6 +5598,12 @@ examples/gridexamples/gridcelleditor/gridcelleditor.lpi svn_mime_002dtype=text%2
 examples/gridexamples/gridcelleditor/gridcelleditor.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/gridcelleditor/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/gridcelleditor/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/merged_cells/mainform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/merged_cells/mainform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/merged_cells/mcgrid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/merged_cells/mergedcells_project.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/merged_cells/mergedcells_project.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/merged_cells/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/spreadsheet/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/spreadsheet/main.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/gridexamples/spreadsheet/spreadsheet.ico svn_mime_002dtype=application%2Foctet-stream
