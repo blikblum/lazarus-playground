@@ -9182,6 +9182,7 @@ tools/jsonviewer/jsonviewer.res svn_mime_002dtype=application%2Foctet-stream
 tools/jsonviewer/languages/jsonviewer.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/languages/jsonviewer.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/languages/jsonviewer.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/languages/jsonviewer.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/languages/jsonviewer.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/languages/jsonviewer.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/languages/jsonviewer.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
