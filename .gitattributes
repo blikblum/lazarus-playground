@@ -8173,6 +8173,7 @@ packager/pkglinksdlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/pkgmanager.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/pkgvirtualuniteditor.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/projpackbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packager/projpackchecks.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packager/registration/Makefile svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/registration/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/registration/Makefile.fpc svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
