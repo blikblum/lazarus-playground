@@ -1062,8 +1062,16 @@ components/codetools/tests/pt_thlp1.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 components/codetools/tests/pt_thlp2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/refactoringtests.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/rt_explodewith.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testbasiccodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testcfgscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testcodetools.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testcodetools.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testcompleteblock.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testcth2pas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/codetools/tests/testctrangescan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testctxmlfixfragments.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/codetools/tests/testmethodjumptool.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/teststdcodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/unitdictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/examples/test.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/languages/lazcstrconsts.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8235,14 +8243,6 @@ test/bugs/bug8432.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/bugs/testfileproc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/bugs/testfileutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/bugtestcase.pas svn_mime_002dtype=text%2Fplain svn_keywords=Id svn_eol_002dstyle=native
-test/codetoolstests/testbasiccodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-test/codetoolstests/testcfgscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-test/codetoolstests/testcompleteblock.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-test/codetoolstests/testcth2pas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-test/codetoolstests/testctrangescan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-test/codetoolstests/testctxmlfixfragments.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-test/codetoolstests/testmethodjumptool.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-test/codetoolstests/teststdcodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/customdrawn/cd_test_all.ico svn_mime_002dtype=application%2Foctet-stream
 test/customdrawn/cd_test_all.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/customdrawn/cd_test_all.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
