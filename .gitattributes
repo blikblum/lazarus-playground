@@ -1058,7 +1058,6 @@ components/codetools/tests/moduletests/rt_explodewith.pas svn_mime_002dtype=text
 components/codetools/tests/parsertbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/parsertest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/parsertest.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/codetools/tests/refactoringtests.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testbasiccodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testcfgscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testcodetools.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1069,6 +1068,7 @@ components/codetools/tests/testctrangescan.pas svn_mime_002dtype=text%2Fplain sv
 components/codetools/tests/testctxmlfixfragments.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/codetools/tests/testfinddeclaration.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testmethodjumptool.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testrefactoring.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/teststdcodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/unitdictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/examples/test.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
