@@ -1007,7 +1007,6 @@ components/codetools/resourcecodetool.pas svn_mime_002dtype=text%2Fpascal svn_ke
 components/codetools/sourcechanger.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/codetools/sourcelog.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/codetools/stdcodetools.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-components/codetools/tests/finddeclarationtests.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/fpctests/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/fpctests/tchlp14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/fpctests/tchlp15.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1068,6 +1067,7 @@ components/codetools/tests/testcompleteblock.pas svn_mime_002dtype=text%2Fplain 
 components/codetools/tests/testcth2pas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/codetools/tests/testctrangescan.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testctxmlfixfragments.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/codetools/tests/testfinddeclaration.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testmethodjumptool.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/teststdcodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/unitdictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
