@@ -4042,6 +4042,7 @@ components/synedit/test/testhighlightfoldbase.pas svn_mime_002dtype=text%2Fpasca
 components/synedit/test/testhighlightmulti.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testhighlightpas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testhighlightxml.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/synedit/test/testmarkupfoldcoloring.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testmarkuphighall.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testmarkupifdef.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testmarkupwordgroup.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
