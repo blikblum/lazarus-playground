@@ -7405,6 +7405,7 @@ lcl/interfaces/carbon/pascocoa/foundation/foundation.pas svn_mime_002dtype=text%
 lcl/interfaces/cocoa/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/cocoa/agl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/alllclintfunits.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoa_extra.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoacaret.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
