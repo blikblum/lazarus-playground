@@ -3300,6 +3300,157 @@ components/multithreadprocs/mtprocs.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 components/multithreadprocs/mtputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/multithreadprocslaz.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/multithreadprocslaz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/fpcmod/opkman_httpclient.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/fpcmod/opkman_zip.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/frames/opkman_createrepositorypackagefr.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/frames/opkman_createrepositorypackagefr.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/images/ImageCopyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/images/ToolBar/Dis/00[!!-~]Refresh.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Dis/01[!!-~]Filter.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Dis/02[!!-~]Download.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Dis/03[!!-~]Install.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Dis/04[!!-~]Update.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Dis/05[!!-~]CleanUp.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Dis/06[!!-~]Repository.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Dis/07[!!-~]Options.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/00[!!-~]Refresh.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/01[!!-~]Filter.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/02[!!-~]Download.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/03[!!-~]Install.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/04[!!-~]Update.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/05[!!-~]CleanUp.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/06[!!-~]Repository.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/Nor/07[!!-~]Options.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/00[!!-~]Repository.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/01[!!-~]PackageName.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/02[!!-~]PackageFile.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/03[!!-~]Description.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/04[!!-~]Author.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/05[!!-~]LazCompatibility.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/06[!!-~]FPCCompatibility.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/07[!!-~]WidgetSet.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/08[!!-~]PackageType.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/09[!!-~]Dependencies.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/10[!!-~]License.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/11[!!-~]Miscellaneous.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/12[!!-~]Category.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/13[!!-~]RepositoryFile.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/14[!!-~]RepositorySize.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/15[!!-~]RepositoryHash.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/16[!!-~]RepositoryDate.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/17[!!-~]HomePage.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/18[!!-~]DownloadLink.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/19[!!-~]SVN.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/20[!!-~]UpToDate.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Clear.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Confirmation.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Database.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Error.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/FileVersion.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Info.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Ok.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Refresh.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/Refresh1.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/onlinepackagemanager.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/onlinepackagemanager.lps svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/onlinepackagemanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/onlinepackagemanagerintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_common.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_const.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_contributors.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_createrepositorypackage.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_createrepositorypackage.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_downloader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_installer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_mainfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_mainfrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_options.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_optionsfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_optionsfrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_packagelistfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_packagelistfrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_progressfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_progressfrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_serializablepackages.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_timer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_visualtree.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_zipper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/carbon/opkman_delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/carbon/opkman_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/carbon/opkman_uses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/carbon/opkman_uses_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/generic/opkman_independentfunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/generic/opkman_stubs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/generic/opkman_timerfunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/generic/opkman_unicodefunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk/opkman_delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk/opkman_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk/opkman_uses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk/opkman_uses_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk2/opkman_delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk2/opkman_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk2/opkman_uses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/gtk2/opkman_uses_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/carbon/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/carbon/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/carbon/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/gtk/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/gtk/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/gtk/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/gtk2/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/gtk2/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/gtk2/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/opkman_dummydragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/opkman_dummyolemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/qt/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/qt/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/qt/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/win32/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/win32/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/win32/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/qt/opkman_delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/qt/opkman_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/qt/opkman_uses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/qt/opkman_uses_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/win32/opkman_delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/win32/opkman_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/win32/opkman_uses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/win32/opkman_uses_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VTAccessibility.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VTAccessibilityFactory.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VTConfig.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VTGraphics.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VTHeaderPopup.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VTIDEEditors.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VirtualTrees-Master.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VirtualTrees.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_VirtualTrees.res svn_mime_002dtype=application%2Foctet-stream
+components/onlinepackagemanager/vst/opkman_VirtualTreesLazMaster.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_delphicompat.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_lclconstants.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_lclext.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_lclfunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_oleutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/opkman_vtlogger.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/carbon/opkman_fakeactivex.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/carbon/opkman_fakemmsystem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/carbon/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/carbon/opkman_virtualpanningwindow.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk/opkman_fakeactivex.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk/opkman_fakemmsystem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk/opkman_virtualpanningwindow.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk2/opkman_fakeactivex.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk2/opkman_fakemmsystem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk2/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/gtk2/opkman_virtualpanningwindow.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/opkman_dummyactivex.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/qt/opkman_fakeactivex.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/qt/opkman_fakemmsystem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/qt/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/qt/opkman_virtualpanningwindow.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/win32/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/win32/opkman_virtualpanningwindow.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/opengl/example/imgui.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/opengl/example/imgui.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/opengl/example/imgui.res svn_mime_002dtype=application%2Foctet-stream
