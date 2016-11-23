@@ -5289,6 +5289,7 @@ docs/xml/multi_makeskel.pl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Da
 docs/xml/updateXML.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/Makefile svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/Makefile.fpc svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+examples/ReSizeImageDemo/Readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/ReSizeImageDemo/project1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/ReSizeImageDemo/project1.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/ReSizeImageDemo/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
