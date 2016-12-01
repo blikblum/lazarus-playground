@@ -3353,6 +3353,7 @@ components/onlinepackagemanager/images/Tree_Buttons/Refresh.png svn_mime_002dtyp
 components/onlinepackagemanager/images/Tree_Buttons/Refresh1.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/languages/opkman_VirtualTrees.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_const.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
