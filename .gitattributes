@@ -6461,8 +6461,6 @@ ide/mainbase.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Rev
 ide/mainintf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/makeresstrdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/makeresstrdlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-ide/manifestdialog.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-ide/manifestdialog.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/miscoptions.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/modematrixopts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/mouseactiondialog.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
