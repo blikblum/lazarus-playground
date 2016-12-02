@@ -3351,13 +3351,17 @@ components/onlinepackagemanager/images/Tree_Buttons/Info.png svn_mime_002dtype=i
 components/onlinepackagemanager/images/Tree_Buttons/Ok.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/Refresh.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/Refresh1.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/languages/opkman_VirtualTrees.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_const.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_httpclient.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_zip.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/onlinepackagemanager.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
