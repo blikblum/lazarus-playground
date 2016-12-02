@@ -3692,6 +3692,7 @@ components/projectgroups/languages/projectgroupstrconst.it.po svn_mime_002dtype=
 components/projectgroups/languages/projectgroupstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/lazprojectgroups.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projectgroups/lazprojectgroups.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/projectgroup.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/projectgroupeditor.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/projectgroupeditor.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
