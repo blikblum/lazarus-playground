@@ -7303,6 +7303,7 @@ lcl/include/customcombobox.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Auth
 lcl/include/customcontrol.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/customdbcombobox.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/include/customdblistbox.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+lcl/include/customdesigncontrol.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/include/customdockform.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/customedit.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/customflowpanel.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
