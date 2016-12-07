@@ -623,6 +623,7 @@ components/anchordocking/anchordockoptionsdlg.pas svn_mime_002dtype=text%2Fplain
 components/anchordocking/anchordockpkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/anchordockstorage.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/anchordockstr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/design/ADLayoutDefault.lrs svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/anchordocking/design/ADLayoutDefault.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/design/anchordesktopoptions.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/anchordocking/design/anchordockingdsgn.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
