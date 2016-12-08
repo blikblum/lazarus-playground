@@ -3370,6 +3370,7 @@ components/onlinepackagemanager/languages/opkman_httpclient.ru.po svn_mime_002dt
 components/onlinepackagemanager/languages/opkman_zip.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_zip.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/onlinepackagemanager.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/onlinepackagemanager.lps svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/onlinepackagemanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
