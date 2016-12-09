@@ -8364,6 +8364,7 @@ packager/pkggraphexplorer.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Autho
 packager/pkglinksdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/pkglinksdlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/pkgmanager.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+packager/pkgregisterbase.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/pkgvirtualuniteditor.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/projpackbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packager/projpackchecks.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -8375,7 +8376,6 @@ packager/registration/fcl.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packager/registration/fcllaz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/registration/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/registration/lazaruspackageintf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-packager/registration/registerfcl.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 startlazarus.app/Contents/Info.plist svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 startlazarus.app/Contents/MacOS/startlazarus svn_mime_002dtype=application%2Foctet-stream
 startlazarus.app/Contents/PkgInfo svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
