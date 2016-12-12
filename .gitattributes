@@ -8447,6 +8447,7 @@ test/ideintf/testmenuintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 test/lazutils/TestLazLogger.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 test/lazutils/testavglvltree.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/testlazloggercase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+test/lazutils/testlazutf16.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/testlazutf8.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/testlazutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/testlazxml.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8460,7 +8461,6 @@ test/lcltests/testpagecontrol.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dst
 test/lcltests/testpen.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lcltests/testpreferredsize.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lcltests/testtextstrings.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-test/lcltests/testunicode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/manual/bidimode_flipchildren svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 test/manual/bidimode_flipchildren/project1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/manual/bidimode_flipchildren/project1.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
