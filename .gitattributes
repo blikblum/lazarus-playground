@@ -1070,6 +1070,7 @@ components/codetools/tests/testctxmlfixfragments.pas svn_mime_002dtype=text%2Fpa
 components/codetools/tests/testfinddeclaration.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testglobals.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testmethodjumptool.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testpascalparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testrefactoring.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/teststdcodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/unitdictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
