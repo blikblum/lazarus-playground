@@ -1008,6 +1008,9 @@ components/codetools/resourcecodetool.pas svn_mime_002dtype=text%2Fpascal svn_ke
 components/codetools/sourcechanger.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/codetools/sourcelog.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/codetools/stdcodetools.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/codetools/tests/fpcsrctest/parsertbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/fpcsrctest/parsertest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/fpcsrctest/parsertest.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/fpctests/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/fpctests/tchlp14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/fpctests/tchlp15.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1056,9 +1059,6 @@ components/codetools/tests/moduletests/fdt_objcclass.pas svn_mime_002dtype=text%
 components/codetools/tests/moduletests/fdt_typehelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_with.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/rt_explodewith.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/codetools/tests/parsertbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/codetools/tests/parsertest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/codetools/tests/parsertest.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/runtestscodetools.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/runtestscodetools.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testbasiccodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
