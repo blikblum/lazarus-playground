@@ -1197,10 +1197,13 @@ components/datetimectrls/datetimectrls.lpk svn_mime_002dtype=text%2Fplain svn_eo
 components/datetimectrls/datetimectrls.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/datetimepicker.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/dbdatetimepicker.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/datetimectrls/design/DateTimeCtrlsDsgn.lpk svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
-components/datetimectrls/design/DateTimeCtrlsDsgn.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/datetimectrls/design/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/datetimectrls/design/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/datetimectrls/design/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datetimectrls/design/datetimecontrolsreg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/design/datetimectrls.lrs svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/datetimectrls/design/datetimectrlsdsgn.lpk svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+components/datetimectrls/design/datetimectrlsdsgn.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/design/datetimepickerpropedit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/lclcalwrapper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/manual.htm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2319,6 +2322,9 @@ components/lazcontrols/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_
 components/lazcontrols/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazcontrols/checkboxthemed.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazcontrols/design svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+components/lazcontrols/design/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazcontrols/design/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazcontrols/design/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazcontrols/design/lazcontroldsgn.lpk svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazcontrols/design/lazcontroldsgn.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazcontrols/design/registerlazcontrols.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
