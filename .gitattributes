@@ -8103,6 +8103,7 @@ lcl/lclclasses.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Re
 lcl/lclintf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lclmemmanager.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lclmessageglue.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+lcl/lclplatformdef.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/lclproc.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lclrescache.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lclstrconsts.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
