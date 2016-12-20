@@ -3057,6 +3057,9 @@ components/lazutils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 components/lazutils/asiancodepagefunctions.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/asiancodepages.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/avglvltree.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/lazutils/dynamicarray.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/lazutils/dynhasharray.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/lazutils/dynqueue.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/easylazfreetype.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/lazutils/examples/LookupStringList/ReadMe.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3064,6 +3067,7 @@ components/lazutils/examples/LookupStringList/TDedupeDemo.lpi svn_mime_002dtype=
 components/lazutils/examples/LookupStringList/TDedupeDemo.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/examples/LookupStringList/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/examples/LookupStringList/main.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazutils/extendedstrings.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/fileutil.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/fileutil.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/fpcadds.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -3132,14 +3136,17 @@ components/lazutils/lazutilsstrconsts.pas svn_mime_002dtype=text%2Fpascal svn_eo
 components/lazutils/lconvencoding.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lcsvutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lookupstringlist.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazutils/maps.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/masks.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/paswstring.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazutils/stringhashlist.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/test svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/lazutils/test/LazUnicodeTest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/test/LazUnicodeTest.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/test/TestLazStorageMem.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/test/TestLazStorageMem.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/test/testlazstoragememcase1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazutils/textstrings.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/ttcache.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/ttcalc.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/ttcalc1.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -7170,13 +7177,9 @@ lcl/dbgrids.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revi
 lcl/defaulttranslator.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/dialog_icons.res svn_mime_002dtype=application%2Foctet-stream
 lcl/dialogs.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/dynamicarray.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/dynhasharray.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/dynqueue.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/editbtn.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/extctrls.pp svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/extdlgs.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/extendedstrings.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/extgraphics.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/filectrl.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/forms.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -8117,7 +8120,6 @@ lcl/lclversion.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+R
 lcl/ldocktree.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/lmessages.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lresources.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/maps.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/maskedit.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/menus.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/nonwin32/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -8135,7 +8137,6 @@ lcl/shellctrls.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/spin.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/stdactns.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/stdctrls.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/stringhashlist.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/templates/template.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/templates/template.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/tests/test1_1simpleform1.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -8171,7 +8172,6 @@ lcl/tests/test5_1asyncprocess.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 lcl/tests/test5_1worker.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/tests/test6_1masks.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/tests/test6_1masks.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-lcl/textstrings.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/themes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/tmschema.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/toolwin.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
