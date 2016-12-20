@@ -6457,6 +6457,7 @@ ide/initialsetupdlgs.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Dat
 ide/initialsetupproc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/inputfiledialog.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/inputhistory.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+ide/inputhistorywithsearchopt.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/inspectchksumchangeddlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/inspectchksumchangeddlg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/invertassigntool.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
