@@ -1920,6 +1920,7 @@ components/ideintf/docs/lazideintf.xml svn_mime_002dtype=text%2Fplain svn_eol_00
 components/ideintf/docs/objectinspector.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/packageintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/projectintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/ideintf/editorsyntaxhighlighterdef.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/fieldseditor.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/ideintf/fieldseditor.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/ideintf/fieldslist.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
