@@ -3147,6 +3147,7 @@ components/lazutils/test/TestLazStorageMem.lpi svn_mime_002dtype=text%2Fplain sv
 components/lazutils/test/TestLazStorageMem.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/test/testlazstoragememcase1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/textstrings.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/lazutils/translations.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/ttcache.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/ttcalc.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/ttcalc1.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -8175,7 +8176,6 @@ lcl/tests/test6_1masks.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 lcl/themes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/tmschema.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/toolwin.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/translations.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/update_allunits.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/update_allunits.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/utrace.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
