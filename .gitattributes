@@ -3117,6 +3117,7 @@ components/lazutils/lazfileutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002
 components/lazutils/lazfreetype.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazfreetypefontcollection.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/lazfreetypefpimagedrawer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazutils/lazlinkedlist.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/lazlistclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/lazlogger.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazloggerbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -8094,7 +8095,6 @@ lcl/lazdialogs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/lazfreetypeintfdrawer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/lazhelphtml.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lazhelpintf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-lcl/lazlinkedlist.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lazregions.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/lcl_calc_images.res svn_mime_002dtype=application%2Foctet-stream
 lcl/lcl_dbgrid_images.res svn_mime_002dtype=application%2Foctet-stream
