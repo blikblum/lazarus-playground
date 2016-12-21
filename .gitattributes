@@ -4230,7 +4230,6 @@ components/synedit/synpluginmulticaret.pp svn_mime_002dtype=text%2Fplain svn_eol
 components/synedit/synpluginsyncroedit.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/synpluginsyncronizededitbase.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/synplugintemplateedit.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/synedit/synregexpr.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/synedit/syntextdrawer.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/synedit/test svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/synedit/test/SynTest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
