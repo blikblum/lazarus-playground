@@ -8274,6 +8274,7 @@ packager/globallinks/instantfpclaz-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_
 packager/globallinks/jcfidelazarus-2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/jumptoimplementation-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazactivex-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazaruspackagemanager-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazc-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazcontroldsgn-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazcontrols-1.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8309,6 +8310,7 @@ packager/globallinks/lr_codereport_pkg-1.lpl svn_mime_002dtype=text%2Fplain svn_
 packager/globallinks/lr_dialogdesign-0.3.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lr_extexp-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lr_officeimport-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lr_pdfexport-0.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lr_sqldb-0.2.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lr_tdbf-0.1.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lr_zeosdb-0.2.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8337,6 +8339,8 @@ packager/globallinks/simpleideintf-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_
 packager/globallinks/sparta_dockedformeditor-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/sparta_generics-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/sparta_mdi-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/sparta_smartformeditor-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/sparta_toolsapi-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/sqldblaz-1.0.2.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/sqlite3laz-0.4.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/sqlitelaz-0.4.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
