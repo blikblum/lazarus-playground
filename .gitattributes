@@ -6786,6 +6786,7 @@ images/componenttreeview/oi_control.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview/oi_form.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview/oi_item.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/copyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 images/debugger/callstack_bottom.png svn_mime_002dtype=application%2Foctet-stream
 images/debugger/callstack_goto.png svn_mime_002dtype=application%2Foctet-stream
 images/debugger/callstack_more.png svn_mime_002dtype=application%2Foctet-stream
