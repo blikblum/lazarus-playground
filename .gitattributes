@@ -5129,9 +5129,14 @@ docs/xml/StyleGuide.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/ide/aboutfrm.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 docs/xml/lazutils/avglvltree.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/dynamicarray.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/dynhasharray.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/dynqueue.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/easylazfreetype.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/extendedstrings.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/fileutil.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/fpcadds.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
+docs/xml/lazutils/fpmake.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/laz2_dom.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/laz2_xmlread.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5144,17 +5149,23 @@ docs/xml/lazutils/laz_xmlread.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_
 docs/xml/lazutils/laz_xmlstreaming.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/laz_xmlwrite.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazclasses.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/lazcollections.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazconfigstorage.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazdbglog.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/lazfglhash.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazfilecache.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazfileutils.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazfreetype.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazfreetypefontcollection.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/lazfreetypefpimagedrawer.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/lazlinkedlist.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/lazlistclasses.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazlogger.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 docs/xml/lazutils/lazloggerbase.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazloggerdummy.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazloggerprofiling.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazmethodlist.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/lazunicode.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazutf16.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazutf8.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazutf8classes.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5163,9 +5174,14 @@ docs/xml/lazutils/lazutilities.xml svn_mime_002dtype=text%2Fplain svn_eol_002dst
 docs/xml/lazutils/lazutils.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lazutilsstrconsts.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lconvencoding.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/lcsvutils.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/lookupstringlist.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/maps.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/masks.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/paswstring.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/stringhashlist.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/textstrings.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/translations.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/ttcache.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/ttcalc.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/ttcmap.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5201,6 +5217,7 @@ docs/xml/lcl/commctrl.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+
 docs/xml/lcl/controls.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/customdrawn_android.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/customdrawn_common.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lcl/customdrawn_mac.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/customdrawn_winxp.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/customdrawncontrols.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/customdrawndrawers.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5237,6 +5254,7 @@ docs/xml/lcl/graphmath.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date
 docs/xml/lcl/graphtype.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/graphutil.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/grids.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
+docs/xml/lcl/groupededit.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/helpintfs.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/icnstypes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/imagelistcache.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5295,9 +5313,11 @@ docs/xml/lcl/lclclasses.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Dat
 docs/xml/lcl/lclintf.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lclmemmanager.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lclmessageglue.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lcl/lclplatformdef.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lclproc.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lclrescache.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lclstrconsts.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
+docs/xml/lcl/lcltaskdialog.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lcltranslator.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lcltype.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lclunicodedata.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
