@@ -28,50 +28,6 @@ components/IdeLazLogger/languages/idelogger.po svn_mime_002dtype=text%2Fplain sv
 components/IdeLazLogger/languages/idelogger.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/IdeLazLogger/languages/idelogger.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/IdeLazLogger/languages/idelogger.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/Example/ButtonSamples/CMP_Button_Disa.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/Example/ButtonSamples/CMP_Button_Off.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/Example/ButtonSamples/CMP_Button_On.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/Example/Ex_IndustrialStuff.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/Example/Ex_IndustrialStuff.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/Example/Ex_IndustrialStuff.res svn_mime_002dtype=application%2Foctet-stream
-components/IndustrialStuff/Example/u_industrial.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/Example/u_industrial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/industrial.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/industrial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/resources/black.png svn_mime_002dtype=application%2Foctet-stream
-components/IndustrialStuff/resources/build.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/resources/bulboff.xpm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/resources/bulbon.xpm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/resources/green.png svn_mime_002dtype=application%2Foctet-stream
-components/IndustrialStuff/resources/industrial_icons.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/resources/ledbuttons.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/resources/red.png svn_mime_002dtype=application%2Foctet-stream
-components/IndustrialStuff/resources/sensors.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/IndustrialStuff/resources/stop_green.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/stop_red.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/stop_unknown.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/stop_yellow.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/tadvled.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/tanalogsensor.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/tindadvled.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/tindgnoumeter.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/tindled.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/tlednumber.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/tstoplightsensor.png svn_mime_002dtype=image%2Fpng
-components/IndustrialStuff/resources/yellow.png svn_mime_002dtype=application%2Foctet-stream
-components/IndustrialStuff/source/AdvLed.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/AllIndustrialRegister.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/indcyBaseLed.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/indcyClasses.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/indcyGraphics.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/indcyTypes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/indgnoumeter.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/indled.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/industrial_icons.res svn_mime_002dtype=application%2Foctet-stream
-components/IndustrialStuff/source/ledbuttons.res svn_mime_002dtype=application%2Foctet-stream
-components/IndustrialStuff/source/lednumber.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/sensors.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/IndustrialStuff/source/sensors.res svn_mime_002dtype=application%2Foctet-stream
 components/Makefile svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/Makefile.fpc svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/PascalScript svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
