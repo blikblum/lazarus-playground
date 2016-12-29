@@ -5190,16 +5190,12 @@ docs/xml/lcl/dialogs/inputquery.pas svn_mime_002dtype=text%2Fpascal svn_keywords
 docs/xml/lcl/dialogs/trymessagedlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 docs/xml/lcl/dialogs/tryshowmessage.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 docs/xml/lcl/dirsel.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
-docs/xml/lcl/dynamicarray.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/dynamicarray/tarrayexample.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-docs/xml/lcl/dynhasharray.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
-docs/xml/lcl/dynqueue.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=LF
 docs/xml/lcl/editbtn.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/extctrls.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/extctrls/radiobutton.pas svn_eol_002dstyle=native
 docs/xml/lcl/extctrls/statusbar.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/extdlgs.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
-docs/xml/lcl/extendedstrings.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/extgraphics.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/filectrl.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/forms.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
@@ -5260,7 +5256,6 @@ docs/xml/lcl/lazdialogs.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 docs/xml/lcl/lazfreetypeintfdrawer.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazhelphtml.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazhelpintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-docs/xml/lcl/lazlinkedlist.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lazregions.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazutf8classes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lcl.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=LF
@@ -5282,7 +5277,6 @@ docs/xml/lcl/lconvencoding.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 docs/xml/lcl/ldocktree.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lmessages.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/lresources.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
-docs/xml/lcl/maps.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/maskedit.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/menus.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/pairsplitter.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
@@ -5299,12 +5293,9 @@ docs/xml/lcl/spin.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+R
 docs/xml/lcl/stdactns.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/stdctrls.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/stdctrls/tcustomcheckbox_allowgrayed.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-docs/xml/lcl/stringhashlist.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
-docs/xml/lcl/textstrings.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/themes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/tmschema.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/toolwin.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
-docs/xml/lcl/translations.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=LF
 docs/xml/lcl/utf8process.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/utrace.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/valedit.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
