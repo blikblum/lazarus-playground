@@ -1068,11 +1068,15 @@ begin
   if CurrentBrush^.GDIBrushFill = GDK_Solid then Exit;
   if CurrentBrush^.GDIBrushPixmap = nil then Exit;
 
-  gdk_gc_set_fill(GC, CurrentBrush^.GDIBrushFill);
-  if CurrentBrush^.GDIBrushFill = GDK_STIPPLED
-  then gdk_gc_set_stipple(GC, CurrentBrush^.GDIBrushPixmap)
-  else gdk_gc_set_tile(GC, CurrentBrush^.GDIBrushPixmap);
+  if CurrentBrush^.GDIBrushFill = GDK_STIPPLED then
+  begin
+    gdk_gc_set_stipple(GC, CurrentBrush^.GDIBrushPixmap);
+    EnsureGCColor(HDC(Self), dccCurrentTextColor, False, False);
+  end
+  else
+    gdk_gc_set_tile(GC, CurrentBrush^.GDIBrushPixmap);
 
+  gdk_gc_set_fill(GC, CurrentBrush^.GDIBrushFill);
   gdk_gc_get_values(GC, @FGCValues);
 end;
 
