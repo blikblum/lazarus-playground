@@ -1870,12 +1870,14 @@ components/ideintf/docs/compoptsintf.xml svn_mime_002dtype=text%2Fplain svn_eol_
 components/ideintf/docs/findcommandsbyshortcut.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/formeditingintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/idecommands.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/ideintf/docs/idehelpintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/ideimagesintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/ideoptionsintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/lazideintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/objectinspector.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/packageintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/docs/projectintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/ideintf/docs/propedits.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/editorsyntaxhighlighterdef.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/fieldseditor.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/ideintf/fieldseditor.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
