@@ -3010,6 +3010,7 @@ components/lazutils/LazLoggerIntf.inc svn_mime_002dtype=text%2Fpascal svn_eol_00
 components/lazutils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazutils/amigalazfileutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/asiancodepagefunctions.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/asiancodepages.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/avglvltree.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -7411,6 +7412,7 @@ lcl/include/statusbar.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Da
 lcl/include/statuspanel.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/statuspanels.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/sysenvapis.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+lcl/include/sysenvapis_amiga.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/include/sysenvapis_mac.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/include/sysenvapis_unix.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/include/sysenvapis_win.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
