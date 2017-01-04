@@ -3381,6 +3381,7 @@ components/onlinepackagemanager/opkman_progressfrm.pas svn_mime_002dtype=text%2F
 components/onlinepackagemanager/opkman_serializablepackages.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_timer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_updates.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_uploader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_visualtree.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_zipper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/carbon/opkman_delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
