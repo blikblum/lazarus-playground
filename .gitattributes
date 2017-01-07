@@ -4290,6 +4290,10 @@ components/tachart/demo/axistransf/axistransfdemo.lpi svn_mime_002dtype=text%2Fp
 components/tachart/demo/axistransf/axistransfdemo.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/demo/axistransf/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/axistransf/main.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/demo/barseriestools/barseriestools.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/barseriestools/barseriestools.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/barseriestools/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/barseriestools/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/basic svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/tachart/demo/basic/demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/basic/demo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
