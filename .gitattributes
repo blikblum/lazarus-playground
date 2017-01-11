@@ -7388,6 +7388,7 @@ lcl/include/notebook.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Dat
 lcl/include/page.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/pagecontrol.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/paintbox.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+lcl/include/patternbitmap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/include/pen.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/picture.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/include/pixmap.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
