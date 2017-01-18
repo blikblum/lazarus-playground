@@ -7912,6 +7912,7 @@ lcl/interfaces/gtk3/interfaces.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 lcl/interfaces/lcl.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/lcl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/mui/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/mui/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/mui/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/mui/alllclintfunits.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/mui/interfaces.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
