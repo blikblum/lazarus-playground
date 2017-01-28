@@ -4427,6 +4427,10 @@ components/tachart/demo/panes-2/project1.lpi svn_mime_002dtype=text%2Fpascal svn
 components/tachart/demo/panes-2/project1.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/demo/panes-2/unit1.lfm svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/demo/panes-2/unit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/demo/panes-3/project1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/panes-3/project1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/panes-3/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/panes-3/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/panes/Main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/panes/Main.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/demo/panes/panes.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
