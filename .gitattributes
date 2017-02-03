@@ -4515,6 +4515,7 @@ components/tachart/icons/tdbchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tintervalchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tlistchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/trandomchartsource.png svn_mime_002dtype=images%2Fpng
+components/tachart/icons/tseriespointerstylecombobox.png svn_mime_002dtype=application%2Foctet-stream
 components/tachart/icons/tuserdefinedchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/languages/tachartstrconsts.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/languages/tachartstrconsts.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4536,6 +4537,7 @@ components/tachart/tachartaxis.pas svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 components/tachart/tachartaxisutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tachartbgra.lpk svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tachartbgra.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/tachartcombos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/tachartextentlink.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tachartfpvectorial.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/tachartfpvectorial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
