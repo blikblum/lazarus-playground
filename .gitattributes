@@ -4501,6 +4501,7 @@ components/tachart/icons/makeicons.bat svn_mime_002dtype=text%2Fplain svn_eol_00
 components/tachart/icons/tcalculatedchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tchart.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tchartaxistransformations.png svn_mime_002dtype=images%2Fpng
+components/tachart/icons/tchartcombobox.png svn_mime_002dtype=application%2Foctet-stream
 components/tachart/icons/tchartextentlink.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tchartguiconnectorbgra.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tchartimagelist.png svn_mime_002dtype=images%2Fpng
@@ -4515,7 +4516,6 @@ components/tachart/icons/tdbchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tintervalchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/tlistchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/icons/trandomchartsource.png svn_mime_002dtype=images%2Fpng
-components/tachart/icons/tseriespointerstylecombobox.png svn_mime_002dtype=application%2Foctet-stream
 components/tachart/icons/tuserdefinedchartsource.png svn_mime_002dtype=images%2Fpng
 components/tachart/languages/tachartstrconsts.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/languages/tachartstrconsts.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
