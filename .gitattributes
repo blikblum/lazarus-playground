@@ -3342,6 +3342,7 @@ components/onlinepackagemanager/languages/opkman_VirtualTrees.ru.po svn_mime_002
 components/onlinepackagemanager/languages/opkman_const.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_const.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3682,6 +3683,7 @@ components/printers/win32/winutilprn.pas svn_mime_002dtype=text%2Fpascal svn_key
 components/printers/win32/winutilprnconst.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/projectgroups/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projectgroups/languages/projectgroupstrconst.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
