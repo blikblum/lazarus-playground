@@ -3336,6 +3336,7 @@ components/onlinepackagemanager/images/Tree_Buttons/StarFull.png svn_mime_002dty
 components/onlinepackagemanager/images/Tree_Buttons/StarFull_Blue.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/StarHalfFull.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/languages/opkman_VirtualTrees.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_VirtualTrees.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3347,10 +3348,12 @@ components/onlinepackagemanager/languages/opkman_const.hu.po svn_mime_002dtype=t
 components/onlinepackagemanager/languages/opkman_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_httpclient.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_zip.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
