@@ -5280,6 +5280,7 @@ docs/xml/lcl/interfaces/gtk/interfaces.xml svn_mime_002dtype=text%2Fxml svn_keyw
 docs/xml/lcl/interfaces/win32 svnc_bugtraq_003aurl svnc_bugtraq_003anumber=true svnc_bugtraq_003alogregex
 docs/xml/lcl/interfaces/win32/win32int.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 docs/xml/lcl/intfgraphics.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
+docs/xml/lcl/jsonpropstorage.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazcanvas.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazconfigstorage.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazdeviceapis.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
