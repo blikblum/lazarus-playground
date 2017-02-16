@@ -9031,7 +9031,6 @@ packager/globallinks/ideinspector-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol
 packager/globallinks/ideintf-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/idelazlogger-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/imagesforlazarus-1.0.1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-packager/globallinks/industrial-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/instantfpclaz-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/jcfidelazarus-2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/jumptoimplementation-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9056,7 +9055,7 @@ packager/globallinks/lazparadox-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002
 packager/globallinks/lazplotfunction-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazprojectgroups-0.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazreport-0.9.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lazreportpdfexport-0.8.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazreportpdfexport-0.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazsvnpkg-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazthread-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazutils-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
