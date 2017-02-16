@@ -5783,6 +5783,11 @@ examples/fpdocmanager/fupdateview.pas svn_mime_002dtype=text%2Fpascal svn_eol_00
 examples/fpdocmanager/ulpk.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/fpdocmanager/umakeskel.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/fpdocmanager/umanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/gridexamples/cell_overflow/celloverflow_demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/cell_overflow/celloverflow_demo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/cell_overflow/comain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/cell_overflow/comain.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/cell_overflow/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/columneditors/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/columneditors/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/columneditors/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
