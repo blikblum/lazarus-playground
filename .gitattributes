@@ -1439,64 +1439,11 @@ components/fpdebug/test/testpascalparser.pas svn_mime_002dtype=text%2Fpascal svn
 components/fpdebug/test/testtypeinfo.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fppkg svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/fppkg/images svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-components/fppkg/images/archive.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/broken.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/build.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/clean.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/compile.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/download.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/fp32.ico svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/freepascal_pkg.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/install.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/lazarus_pkg.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/package_manager.png svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/images/update.png svn_mime_002dtype=application%2Foctet-stream
 components/fppkg/languages svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-components/fppkg/languages/fppkg_const.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/languages/fppkg_const.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-components/fppkg/src/fppkg_aboutfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_aboutfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_const.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_details.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_details.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_lpk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_mainfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_mainfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_optionsfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/fppkg_optionsfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/laz_pkgcommands.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/laz_pkghandler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/laz_pkgrepos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/lazaruspackagemanager.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/lazaruspackagemanager.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/src/lazpackagemanagerintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/standalone svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-components/fppkg/standalone/lazarusfppkg.ico svn_mime_002dtype=application%2Foctet-stream
-components/fppkg/standalone/lazarusfppkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/standalone/lazarusfppkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/svn svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-components/fppkg/svn/svnclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/svncommand.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/svnpkg.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/svnpkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/svn/test svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-components/fppkg/svn/test/fpcunitsvnpkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/test/fpcunitsvnpkg.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/test/info.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/test/log.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/test/proplist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/test/status.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/test/testsvnclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/svn/test/testsvncommand.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisocncgcodereader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisocncgcodewriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisozlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9040,7 +8987,6 @@ packager/globallinks/instantfpclaz-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_
 packager/globallinks/jcfidelazarus-2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/jumptoimplementation-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazactivex-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lazaruspackagemanager-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazc-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazcontroldsgn-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazcontrols-1.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
