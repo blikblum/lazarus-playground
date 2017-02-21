@@ -6553,6 +6553,7 @@ images/actions/laz_open.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_openunit.png svn_mime_002dtype=application%2Foctet-stream
 images/actions/laz_refresh.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_save.png svn_mime_002dtype=image%2Fpng
+images/actions/laz_save_150.png svn_mime_002dtype=application%2Foctet-stream
 images/actions/laz_set_color_default.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_set_colors_default.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_tick.png svn_mime_002dtype=image%2Fpng
