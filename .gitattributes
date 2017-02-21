@@ -4412,6 +4412,12 @@ components/tachart/demo/runtime/chartstyles/project1.lpr svn_mime_002dtype=text%
 components/tachart/demo/runtime/chartstyles/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/runtime/chartstyles/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/runtime/chartstyles/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/plotunit/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/plotunit/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/plotunit/plotdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/plotunit/plotdemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/plotunit/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/plotunit/uplot.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/save svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/tachart/demo/save/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/save/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
