@@ -10022,6 +10022,7 @@ tools/install/linux/environmentoptions.xml svn_mime_002dtype=text%2Fplain svn_eo
 tools/install/macosx/License.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/macosx/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/macosx/ReadMe.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/install/macosx/create_fpc-src_dmg.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/macosx/create_lazarus_dmg.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/macosx/environmentoptions.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/macosx/fpc-release.packproj.template svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
