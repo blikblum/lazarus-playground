@@ -4409,6 +4409,10 @@ components/tachart/demo/runtime/chartstyles/project1.lpr svn_mime_002dtype=text%
 components/tachart/demo/runtime/chartstyles/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/runtime/chartstyles/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/runtime/chartstyles/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/dualaxes/project1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/dualaxes/project1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/dualaxes/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/runtime/dualaxes/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/runtime/plotunit/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/runtime/plotunit/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/runtime/plotunit/plotdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
