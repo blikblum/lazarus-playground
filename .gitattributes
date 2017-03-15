@@ -1904,6 +1904,7 @@ components/ideintf/objectinspector.lfm svn_mime_002dtype=text%2Fplain svn_eol_00
 components/ideintf/objectinspector.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/objinspstrconsts.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/ideintf/oifavoriteproperties.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/ideintf/packagedependencyintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/packageintf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/ideintf/pagespropeditdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/pagespropeditdlg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
