@@ -4492,9 +4492,7 @@ components/tachart/languages/tachartstrconsts.ru.po svn_mime_002dtype=text%2Fpla
 components/tachart/languages/tachartstrconsts.se.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/numlib_fix svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/tachart/numlib_fix/direct.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/tachart/numlib_fix/ipf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/tachart/numlib_fix/mdt.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/tachart/numlib_fix/sle.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/numlib_fix/ipf_fix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/taanimatedsource.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taaxissource.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tabgrautils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
