@@ -4495,7 +4495,6 @@ components/tachart/numlib_fix/direct.inc svn_mime_002dtype=text%2Fpascal svn_eol
 components/tachart/numlib_fix/ipf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/numlib_fix/mdt.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/numlib_fix/sle.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/tachart/numlib_fix/spe.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taanimatedsource.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taaxissource.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tabgrautils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
