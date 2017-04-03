@@ -1437,6 +1437,50 @@ components/fpdebug/test/testhelperclasses.pas svn_mime_002dtype=text%2Fpascal sv
 components/fpdebug/test/testmemmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fpdebug/test/testpascalparser.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fpdebug/test/testtypeinfo.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/fppkg/images/archive.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/broken.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/build.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/clean.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/compile.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/download.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/fp32.ico svn_mime_002dtype=image%2Fx-icon
+components/fppkg/images/freepascal_pkg.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/install.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/lazarus_pkg.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/package_manager.png svn_mime_002dtype=image%2Fpng
+components/fppkg/images/update.png svn_mime_002dtype=image%2Fpng
+components/fppkg/languages/fppkg_const.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/fppkg_const.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/lazarusfppkg.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_aboutfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_aboutfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_const.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_details.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_details.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_lpk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_mainfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_mainfrm.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_mainfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_optionsfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_optionsfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkgpackagemanager.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkgpackagemanager.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/laz_pkgcommands.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/laz_pkgrepos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/lazfppkgmanagerintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/standalone/lazarusfppkg.ico svn_mime_002dtype=image%2Fx-icon
+components/fppkg/standalone/lazarusfppkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/standalone/lazarusfppkg.lps svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/standalone/lazarusfppkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/standalone/lazarusfppkg.res svn_mime_002dtype=application%2Foctet-stream
 components/fpvectorial/avisocncgcodereader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisocncgcodewriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisozlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
