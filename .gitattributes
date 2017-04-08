@@ -9118,8 +9118,8 @@ packager/globallinks/lazutils-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packager/globallinks/lazvlc-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazwebextra-0.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazwiki-1.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lcl-1.7.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lclbase-1.7.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lcl-1.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lclbase-1.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/leakview-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lhelpcontrolpkg-0.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lr_add_function-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
