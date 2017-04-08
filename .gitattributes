@@ -9079,6 +9079,7 @@ packager/globallinks/fpcunitconsolerunner-1.lpl svn_mime_002dtype=text%2Fplain s
 packager/globallinks/fpcunitide-0.1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/fpcunittestrunner-0.1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/fpdebug-0.lpl svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packager/globallinks/fppkgpackagemanager-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/fpvectorialpkg-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/gdbmitestutils-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/h2paswizard-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9160,7 +9161,6 @@ packager/globallinks/sparta_toolsapi-0.lpl svn_mime_002dtype=text%2Fplain svn_eo
 packager/globallinks/sqldblaz-1.0.2.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/sqlite3laz-0.4.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/sqlitelaz-0.4.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/svnpkg-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/synedit-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/syneditdsgn-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/synuni-1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
