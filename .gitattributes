@@ -1484,7 +1484,6 @@ components/fppkg/src/laz_pkgrepos.pas svn_mime_002dtype=text%2Fplain svn_eol_002
 components/fppkg/src/lazfppkgmanagerintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/standalone/lazarusfppkg.ico svn_mime_002dtype=image%2Fx-icon
 components/fppkg/standalone/lazarusfppkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fppkg/standalone/lazarusfppkg.lps svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/standalone/lazarusfppkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/standalone/lazarusfppkg.res svn_mime_002dtype=application%2Foctet-stream
 components/fpvectorial/avisocncgcodereader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
