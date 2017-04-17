@@ -1015,6 +1015,7 @@ components/codetools/tests/moduletests/fdt_generics.pas svn_mime_002dtype=text%2
 components/codetools/tests/moduletests/fdt_nestedclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_objccategory.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_objcclass.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/moduletests/fdt_proc_basetypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_typehelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_with.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/rt_explodewith.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
