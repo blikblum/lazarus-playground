@@ -1033,6 +1033,7 @@ components/codetools/tests/testmethodjumptool.pas svn_mime_002dtype=text%2Fplain
 components/codetools/tests/testpascalparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/testrefactoring.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/teststdcodetools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/testvarcompletion.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/unitdictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/examples/test.c svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/languages/lazcstrconsts.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
