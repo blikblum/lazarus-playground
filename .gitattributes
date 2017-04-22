@@ -1011,6 +1011,7 @@ components/codetools/tests/laztests/unitdots.pas svn_mime_002dtype=text%2Fplain 
 components/codetools/tests/moduletests/fdt_basic.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_classhelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_classof.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/moduletests/fdt_for_in.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_generics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_nestedclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_objccategory.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
