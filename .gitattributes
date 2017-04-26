@@ -1002,6 +1002,7 @@ components/codetools/tests/laztests/bug28876.pas svn_mime_002dtype=text%2Fplain 
 components/codetools/tests/laztests/bug28877.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/delphi_autodereference1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/tdefaultproperty1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/laztests/tprogramdots1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/tunit_order_test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/tunitdots.main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/unit_order_a.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
