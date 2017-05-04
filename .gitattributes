@@ -7291,6 +7291,7 @@ lcl/forms.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revisio
 lcl/forms/calcform.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/forms/calendarpopup.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/forms/calendarpopup.pas svn_mime_002dtype=text%2Fplain svn_keywords=id svn_eol_002dstyle=native
+lcl/forms/dblogdlg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/forms/finddlgunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/forms/finddlgunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/forms/replacedlgunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
