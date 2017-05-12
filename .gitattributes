@@ -6028,16 +6028,6 @@ examples/objectinspector/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_keyword
 examples/objectinspector/mainunit.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/objectinspector/oiexample.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/objectinspector/oiexample.lpr svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-examples/openbrowser/OpenURLInFirefox.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/OpenURLInGaleon.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/OpenURLInKonqueror.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/OpenURLInMozilla.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/OpenURLInNetscape.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/OpenURLInOpera.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/mainunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/testbrowserrmc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/openbrowser/testbrowserrmc.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/openglcontrol/data/particle.png svn_mime_002dtype=image%2Fpng
 examples/openglcontrol/data/texture1.png svn_mime_002dtype=image%2Fpng
 examples/openglcontrol/data/texture2.png svn_mime_002dtype=image%2Fpng
