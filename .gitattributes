@@ -10141,6 +10141,8 @@ tools/debugserver/frmoptions.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyl
 tools/delete_non_svn_files.pl svnc_propset=svn%3Aeol-style svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/find_merged_revisions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/find_missing_lpl_files.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/find_missing_wiki_svnrevisions.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/find_missing_wiki_svnrevisions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/getallpofiles.sh svn_mime_002dtype=application%2Fx-sh svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/glazres/glazres.ico svn_mime_002dtype=image%2Fico
 tools/glazres/glazres.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
