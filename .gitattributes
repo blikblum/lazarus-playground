@@ -8235,6 +8235,8 @@ lcl/interfaces/qt5/cbindings/src/qapplication_hook_c.cpp svn_mime_002dtype=text%
 lcl/interfaces/qt5/cbindings/src/qapplication_hook_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qauthenticator_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qauthenticator_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qbackingstore_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qbackingstore_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qbitmap_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qbitmap_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qboxlayout_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8470,6 +8472,8 @@ lcl/interfaces/qt5/cbindings/src/qmainwindow_c.h svn_mime_002dtype=text%2Fplain 
 lcl/interfaces/qt5/cbindings/src/qmainwindow_hook.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qmainwindow_hook_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qmainwindow_hook_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qmargins_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qmargins_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qmatrix_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qmatrix_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qmdiarea_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8595,6 +8599,11 @@ lcl/interfaces/qt5/cbindings/src/qregion_c.cpp svn_mime_002dtype=text%2Fplain sv
 lcl/interfaces/qt5/cbindings/src/qregion_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qrubberband_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qrubberband_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qscreen_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qscreen_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qscreen_hook.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qscreen_hook_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qscreen_hook_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qscrollarea_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qscrollarea_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qscrollbar_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8677,6 +8686,10 @@ lcl/interfaces/qt5/cbindings/src/qstylefactory_c.cpp svn_mime_002dtype=text%2Fpl
 lcl/interfaces/qt5/cbindings/src/qstylefactory_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qstyleoption_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qstyleoption_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qsurface_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qsurface_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qsurfaceformat_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qsurfaceformat_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qsystemtrayicon_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qsystemtrayicon_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qsystemtrayicon_hook.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8845,6 +8858,11 @@ lcl/interfaces/qt5/cbindings/src/qwidget_c.h svn_mime_002dtype=text%2Fplain svn_
 lcl/interfaces/qt5/cbindings/src/qwidget_hook.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qwidget_hook_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qwidget_hook_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qwindow_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qwindow_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qwindow_hook.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qwindow_hook_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/qt5/cbindings/src/qwindow_hook_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qx11info_x11_c.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/cbindings/src/qx11info_x11_c.h svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/qt5/interfaces.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
