@@ -5823,6 +5823,10 @@ examples/gridexamples/columneditors/main.pas svn_mime_002dtype=text%2Fplain svn_
 examples/gridexamples/columneditors/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/columneditors/stringgrideditor.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/columneditors/stringgrideditor.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/embedded_images/images.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/embedded_images/images.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/embedded_images/imgmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/gridexamples/embedded_images/imgmain.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/grid_semaphor/TSemaphorDBGrid.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/gridexamples/grid_semaphor/example/project1.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/gridexamples/grid_semaphor/example/project1.lpr svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
