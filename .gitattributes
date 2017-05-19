@@ -10209,10 +10209,12 @@ tools/install/debian_fpc-src/changelog svn_keywords=Author+Date+Id+Revision svn_
 tools/install/debian_fpc-src/changelog.Debian svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/debian_fpc-src/control svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/debian_fpc-src/copyright svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+tools/install/debian_fpc-src/lintian.overrides svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_fpc/changelog svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_fpc/changelog.Debian svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_fpc/control svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_fpc/copyright svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/install/debian_fpc/lintian.overrides svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_fpc/postinst svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_lazarus/changelog.Debian svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/debian_lazarus/conffiles svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
