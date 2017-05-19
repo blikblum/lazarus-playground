@@ -10214,12 +10214,13 @@ tools/install/debian_fpc/changelog.Debian svn_mime_002dtype=text%2Fplain svn_eol
 tools/install/debian_fpc/control svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_fpc/copyright svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_fpc/postinst svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tools/install/debian_lazarus/changelog svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/debian_lazarus/changelog.Debian svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+tools/install/debian_lazarus/conffiles svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_lazarus/control svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_lazarus/controlgtk svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/debian_lazarus/controlqt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/debian_lazarus/copyright svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+tools/install/debian_lazarus/lintian.overrides svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/do_nothing.sh svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/file_filter.sh svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/fpcsrc-patch svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
