@@ -5136,7 +5136,6 @@ docs/html/fpdoc.css svn_mime_002dtype=text%2Fcss svn_keywords=Author+Date+Id+Rev
 docs/html/localfclfooter.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/locallclfooter.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/localrtlfooter.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-docs/html/sourceforgefooter.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 docs/images/laztitle.png svn_mime_002dtype=application%2Foctet-stream
 docs/images/laztitle.svg svn_mime_002dtype=image%2Fsvg%2Bxml svn_eol_002dstyle=native
 docs/index.html svn_mime_002dtype=text%2Fhtml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
