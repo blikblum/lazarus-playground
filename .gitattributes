@@ -3272,6 +3272,8 @@ components/mrumenu/regmru.res svn_mime_002dtype=application%2Foctet-stream
 components/mrumenu/tmrumenumanager.png svn_mime_002dtype=image%2Fpng
 components/multithreadprocs/examples/parallelloop1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/examples/parallelloop1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/multithreadprocs/examples/parallelloop_nested1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/multithreadprocs/examples/parallelloop_nested1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/examples/recursivemtp1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/examples/recursivemtp1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/examples/simplemtp1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
