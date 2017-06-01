@@ -679,7 +679,11 @@ components/chmhelp/packages/help/design/lazhelpchm.bat svn_mime_002dtype=text%2F
 components/chmhelp/packages/help/design/lazhelpchm.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/design/lazhelpchm.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/design/tchmhelpdatabase.png svn_mime_002dtype=image%2Fpng
+components/chmhelp/packages/help/design/tchmhelpdatabase_150.png svn_mime_002dtype=application%2Foctet-stream
+components/chmhelp/packages/help/design/tchmhelpdatabase_200.png svn_mime_002dtype=application%2Foctet-stream
 components/chmhelp/packages/help/design/tlhelpconnector.png svn_mime_002dtype=image%2Fpng
+components/chmhelp/packages/help/design/tlhelpconnector_150.png svn_mime_002dtype=application%2Foctet-stream
+components/chmhelp/packages/help/design/tlhelpconnector_200.png svn_mime_002dtype=application%2Foctet-stream
 components/chmhelp/packages/help/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/lazhelpchm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/lazhelpchm.res svn_mime_002dtype=application%2Foctet-stream
@@ -6924,6 +6928,8 @@ images/components/tvaluelisteditor.png svn_mime_002dtype=application%2Foctet-str
 images/components/tvaluelisteditor_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tvaluelisteditor_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/txmlconfig.png svn_mime_002dtype=image%2Fpng
+images/components/txmlconfig_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/txmlconfig_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/txmlpropstorage.png svn_mime_002dtype=image%2Fpng
 images/components/txmlpropstorage_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/txmlpropstorage_200.png svn_mime_002dtype=application%2Foctet-stream
