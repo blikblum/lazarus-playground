@@ -5139,11 +5139,9 @@ docs/html/build_chm.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dsty
 docs/html/build_chm.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/build_html.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 docs/html/build_html.sh svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-docs/html/build_lazutils_html.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/build_lcl_chm.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/build_lcl_docs.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/build_lcl_docs.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-docs/html/build_lcl_html.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/fpdoc.css svn_mime_002dtype=text%2Fcss svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 docs/html/localfclfooter.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/html/locallclfooter.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
