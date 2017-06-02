@@ -3628,8 +3628,11 @@ components/printers/design/sourceprinter.pas svn_mime_002dtype=text%2Fplain svn_
 components/printers/images/printersdlgs.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 components/printers/images/printersdlgs.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/images/tpagesetupdialog.png svn_mime_002dtype=image%2Fpng
+components/printers/images/tpagesetupdialog_150.png svn_mime_002dtype=application%2Foctet-stream
 components/printers/images/tprintdialog.png svn_mime_002dtype=image%2Fpng
+components/printers/images/tprintdialog_150.png svn_mime_002dtype=application%2Foctet-stream
 components/printers/images/tprintersetupdialog.png svn_mime_002dtype=image%2Fpng
+components/printers/images/tprintersetupdialog_150.png svn_mime_002dtype=application%2Foctet-stream
 components/printers/languages/printer4lazstrconst.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/languages/printer4lazstrconst.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/languages/printer4lazstrconst.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6810,6 +6813,7 @@ images/components/tfilelistbox.png svn_mime_002dtype=image%2Fpng
 images/components/tfilenameedit.png svn_mime_002dtype=image%2Fpng
 images/components/tfiltercombobox.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tfinddialog.png svn_mime_002dtype=image%2Fpng
+images/components/tfinddialog_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tfloatspinedit.png svn_mime_002dtype=image%2Fpng
 images/components/tfloatspinedit_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tfloatspinedit_200.png svn_mime_002dtype=application%2Foctet-stream
