@@ -4034,6 +4034,7 @@ components/sqldb/sqldblaz.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Autho
 components/sqldb/sqlstringspropertyeditordlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqldb/sqlstringspropertyeditordlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/imagelist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/sqlite/imagelist3.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/sqlite/languages/sqlitecompstrings.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
