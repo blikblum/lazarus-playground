@@ -3216,6 +3216,7 @@ components/memds/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dst
 components/memds/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/memds/frmselectdataset.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/memds/frmselectdataset.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/memds/imagelist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/memds/languages/frmselectdataset.de.po svnc_propset=svn%3Aeol-style svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/memds/languages/frmselectdataset.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/memds/languages/frmselectdataset.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3228,10 +3229,13 @@ components/memds/languages/frmselectdataset.pt_BR.po svn_mime_002dtype=text%2Fpl
 components/memds/languages/frmselectdataset.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/memds/languages/frmselectdataset.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/memds/languages/frmselectdataset.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/memds/make_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/memds/memdsicons.res svn_mime_002dtype=application%2Foctet-stream
 components/memds/memdslaz.lpk svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/memds/memdslaz.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/memds/tmemdataset.png svn_mime_002dtype=image%2Fpng
+components/memds/tmemdataset_150.png svn_mime_002dtype=application%2Foctet-stream
+components/memds/tmemdataset_200.png svn_mime_002dtype=application%2Foctet-stream
 components/messagecomposer/languages/messagecomposer.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/messagecomposer/languages/messagecomposer.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/messagecomposer/languages/messagecomposer.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3525,11 +3529,15 @@ components/paradox/demo/frmmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002ds
 components/paradox/demo/frmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/paradox/demo/testparadox.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/paradox/demo/testparadox.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/paradox/imagelist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/paradox/lazparadox.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/paradox/lazparadox.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/paradox/make_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/paradox/regparadox.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/paradox/regparadox.res svn_mime_002dtype=application%2Foctet-stream
 components/paradox/tparadox.png svn_mime_002dtype=image%2Fpng
+components/paradox/tparadox_150.png svn_mime_002dtype=application%2Foctet-stream
+components/paradox/tparadox_200.png svn_mime_002dtype=application%2Foctet-stream
 components/plotfunction/demo/event/frmmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/plotfunction/demo/event/frmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/plotfunction/demo/event/ploteventdemo.ico svn_mime_002dtype=image%2Fico
@@ -3861,7 +3869,11 @@ components/sdf/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sdf/images/registersdf.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 components/sdf/images/registersdf.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sdf/images/tfixedformatdataset.png svn_mime_002dtype=image%2Fpng
+components/sdf/images/tfixedformatdataset_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sdf/images/tfixedformatdataset_200.png svn_mime_002dtype=application%2Foctet-stream
 components/sdf/images/tsdfdataset.png svn_mime_002dtype=image%2Fpng
+components/sdf/images/tsdfdataset_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sdf/images/tsdfdataset_200.png svn_mime_002dtype=application%2Foctet-stream
 components/sdf/registersdf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/sdf/registersdf.res svn_mime_002dtype=application%2Foctet-stream
 components/sdf/sdflaz.lpk svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -3975,11 +3987,19 @@ components/sqldb/design/toracleconnection.png svn_mime_002dtype=image%2Fpng
 components/sqldb/design/tpqconnection.png svn_mime_002dtype=image%2Fpng
 components/sqldb/design/tpqteventmonitor.png svn_mime_002dtype=application%2Foctet-stream
 components/sqldb/design/tsqlconnector.png svn_mime_002dtype=image%2Fpng
+components/sqldb/design/tsqlconnector_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sqldb/design/tsqlconnector_200.png svn_mime_002dtype=application%2Foctet-stream
 components/sqldb/design/tsqldblibraryloader.png svn_mime_002dtype=image%2Fpng
 components/sqldb/design/tsqlite3connection.png svn_mime_002dtype=image%2Fpng
 components/sqldb/design/tsqlquery.png svn_mime_002dtype=image%2Fpng
+components/sqldb/design/tsqlquery_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sqldb/design/tsqlquery_200.png svn_mime_002dtype=application%2Foctet-stream
 components/sqldb/design/tsqlscript.png svn_mime_002dtype=image%2Fpng
+components/sqldb/design/tsqlscript_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sqldb/design/tsqlscript_200.png svn_mime_002dtype=application%2Foctet-stream
 components/sqldb/design/tsqltransaction.png svn_mime_002dtype=image%2Fpng
+components/sqldb/design/tsqltransaction_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sqldb/design/tsqltransaction_200.png svn_mime_002dtype=application%2Foctet-stream
 components/sqldb/design/tsybaseconnection.png svn_mime_002dtype=image%2Fpng
 components/sqldb/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqldb/languages/registersqldb.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4695,6 +4715,7 @@ components/tdbf/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 components/tdbf/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tdbf/dbflaz.lpk svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/tdbf/dbflaz.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/tdbf/imagelist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tdbf/languages/registerdbf.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tdbf/languages/registerdbf.de.po svnc_propset=svn%3Aeol-style svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tdbf/languages/registerdbf.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4709,9 +4730,12 @@ components/tdbf/languages/registerdbf.pt_BR.po svn_mime_002dtype=text%2Fplain sv
 components/tdbf/languages/registerdbf.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tdbf/languages/registerdbf.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tdbf/languages/registerdbf.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tdbf/make_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tdbf/registerdbf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/tdbf/registerdbf.res svn_mime_002dtype=application%2Foctet-stream
 components/tdbf/tdbf.png svn_mime_002dtype=image%2Fpng
+components/tdbf/tdbf_150.png svn_mime_002dtype=application%2Foctet-stream
+components/tdbf/tdbf_200.png svn_mime_002dtype=application%2Foctet-stream
 components/todolist/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/todolist/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/todolist/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
