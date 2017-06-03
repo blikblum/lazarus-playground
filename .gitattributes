@@ -4033,6 +4033,7 @@ components/sqldb/sqldblaz.lpk svn_mime_002dtype=text%2Fpascal svn_keywords=Autho
 components/sqldb/sqldblaz.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/sqldb/sqlstringspropertyeditordlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqldb/sqlstringspropertyeditordlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/sqlite/imagelist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/sqlite/languages/sqlitecompstrings.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4041,6 +4042,7 @@ components/sqlite/languages/sqlitecompstrings.po svn_mime_002dtype=text%2Fplain 
 components/sqlite/languages/sqlitecompstrings.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/lib/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/sqlite/make_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/registersqlite.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/registersqlite3.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/sqlite3icon.res svn_mime_002dtype=application%2Foctet-stream
@@ -4053,7 +4055,11 @@ components/sqlite/sqliteicon.res svn_mime_002dtype=application%2Foctet-stream
 components/sqlite/sqlitelaz.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/sqlitelaz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/tsqlite3dataset.png svn_mime_002dtype=application%2Foctet-stream
+components/sqlite/tsqlite3dataset_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sqlite/tsqlite3dataset_200.png svn_mime_002dtype=application%2Foctet-stream
 components/sqlite/tsqlitedataset.png svn_mime_002dtype=application%2Foctet-stream
+components/sqlite/tsqlitedataset_150.png svn_mime_002dtype=application%2Foctet-stream
+components/sqlite/tsqlitedataset_200.png svn_mime_002dtype=application%2Foctet-stream
 components/synedit/Contributors.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/synedit/Makefile svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/synedit/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
