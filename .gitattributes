@@ -10431,7 +10431,6 @@ tools/install/get_fpc_full_version.sh svn_mime_002dtype=text%2Fplain svn_eol_002
 tools/install/get_lazarus_version.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 tools/install/get_lazarus_version.sh svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/get_svn_revision_number.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tools/install/linux/editoroptions.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/linux/environmentoptions.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/macosx/License.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/install/macosx/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
