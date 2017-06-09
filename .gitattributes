@@ -3300,6 +3300,8 @@ components/onlinepackagemanager/fpcmod/opkman_httpclient.pas svn_mime_002dtype=t
 components/onlinepackagemanager/fpcmod/opkman_zip.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/frames/opkman_createrepositorypackagefr.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/frames/opkman_createrepositorypackagefr.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/images/1license.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/images/Copyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/images/ImageCopyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/images/ToolBar/Dis/00[!!-~]Refresh.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/ToolBar/Dis/01[!!-~]Filter.png svn_mime_002dtype=image%2Fpng
@@ -3356,6 +3358,7 @@ components/onlinepackagemanager/images/Tree_Buttons/StarEmpty.png svn_mime_002dt
 components/onlinepackagemanager/images/Tree_Buttons/StarFull.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/StarFull_Blue.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/StarHalfFull.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
