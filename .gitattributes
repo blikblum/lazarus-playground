@@ -3037,6 +3037,7 @@ components/lazutils/fileutil.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dsty
 components/lazutils/fileutil.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/fpcadds.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazutils/html2textrender.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/languages/lazutilsstrconsts.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/languages/lazutilsstrconsts.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/languages/lazutilsstrconsts.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
