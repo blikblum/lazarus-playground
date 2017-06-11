@@ -1157,7 +1157,7 @@ components/datadict/reglazdatadict.res svn_mime_002dtype=application%2Foctet-str
 components/datadict/testdatadict.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datadict/testdatadict.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datadict/tfpcodegenerator.xpm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/datetimectrls/ChangeLog.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/datetimectrls/ChangeLog.old svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datetimectrls/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datetimectrls/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datetimectrls/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
