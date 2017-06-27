@@ -8041,7 +8041,6 @@ lcl/interfaces/cocoa/cocoalclintf.inc svn_mime_002dtype=text%2Fpascal svn_eol_00
 lcl/interfaces/cocoa/cocoalclintfh.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoaobject.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoaprivate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-lcl/interfaces/cocoa/cocoaproc.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoathemes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoatrayicon.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoautils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
