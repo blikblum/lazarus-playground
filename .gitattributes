@@ -5187,6 +5187,7 @@ docs/lazdoc.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 docs/xml/StyleGuide.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/ide/aboutfrm.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/ide/environmentopts.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 docs/xml/lazutils svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 docs/xml/lazutils/avglvltree.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/dynamicarray.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
