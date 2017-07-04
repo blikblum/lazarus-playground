@@ -4657,6 +4657,7 @@ components/tachart/tagraph.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 components/tachart/tagraph.res svn_mime_002dtype=application%2Foctet-stream
 components/tachart/taguiconnector.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taguiconnectorbgra.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/tahtml.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/taintervalsources.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/talegend.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/talegendpanel.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
