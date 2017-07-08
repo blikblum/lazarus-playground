@@ -3617,6 +3617,7 @@ components/printers/design/languages/ideprinting.fi.po svn_mime_002dtype=text%2F
 components/printers/design/languages/ideprinting.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/design/languages/ideprinting.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/design/languages/ideprinting.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/printers/design/languages/ideprinting.ja.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/design/languages/ideprinting.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/design/languages/ideprinting.pl.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/design/languages/ideprinting.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3752,6 +3753,7 @@ components/projecttemplates/languages/frmtemplatesettings.es.po svn_mime_002dtyp
 components/projecttemplates/languages/frmtemplatesettings.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/frmtemplatesettings.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/frmtemplatesettings.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projecttemplates/languages/frmtemplatesettings.ja.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/frmtemplatesettings.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/frmtemplatesettings.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/frmtemplatesettings.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3776,6 +3778,7 @@ components/projecttemplates/languages/idetemplateproject.fr.po svn_mime_002dtype
 components/projecttemplates/languages/idetemplateproject.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/idetemplateproject.id.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/idetemplateproject.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projecttemplates/languages/idetemplateproject.ja.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/idetemplateproject.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/idetemplateproject.pl.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/idetemplateproject.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3790,6 +3793,7 @@ components/projecttemplates/languages/projecttemplates.fr.po svn_mime_002dtype=t
 components/projecttemplates/languages/projecttemplates.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/projecttemplates.id.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/projecttemplates.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projecttemplates/languages/projecttemplates.ja.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/projecttemplates.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/projecttemplates.pl.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projecttemplates/languages/projecttemplates.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
