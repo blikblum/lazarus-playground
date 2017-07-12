@@ -1928,6 +1928,8 @@ components/ideintf/images/propertygrid/issue_qt.png svn_mime_002dtype=image%2Fpn
 components/ideintf/images/propertygrid/issue_win32.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/propertygrid/issue_wince.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/propertygrid/pg_active_row.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/propertygrid/pg_active_row_150.png svn_mime_002dtype=application%2Foctet-stream
+components/ideintf/images/propertygrid/pg_active_row_200.png svn_mime_002dtype=application%2Foctet-stream
 components/ideintf/keyvalpropeditdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/keyvalpropeditdlg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/languages/objinspstrconsts.ca.po svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
