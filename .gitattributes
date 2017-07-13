@@ -5011,6 +5011,7 @@ debian/po/fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/ja.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+debian/po/lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/pl.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/pt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
