@@ -4611,6 +4611,9 @@ components/tachart/fpdoc/talegend.xml svn_mime_002dtype=text%2Fplain svn_eol_002
 components/tachart/fpdoc/taseries.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/tasources.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/tatypes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/fpvectorial/tachartfpvectorial.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/fpvectorial/tachartfpvectorial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/fpvectorial/tadrawerfpvectorial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/icons svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/tachart/icons/makeicons.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/icons/tcalculatedchartsource.png svn_mime_002dtype=images%2Fpng
@@ -4653,8 +4656,6 @@ components/tachart/tachartbgra.lpk svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 components/tachart/tachartbgra.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tachartcombos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/tachartextentlink.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/tachart/tachartfpvectorial.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/tachart/tachartfpvectorial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tachartimagelist.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tachartlazaruspkg.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/tachartlazaruspkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4677,7 +4678,6 @@ components/tachart/tadiagramlayout.pas svn_mime_002dtype=text%2Fpascal svn_eol_0
 components/tachart/tadrawerbgra.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tadrawercanvas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tadrawerfpcanvas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/tachart/tadrawerfpvectorial.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tadraweropengl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tadrawersvg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tadrawerwmf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
