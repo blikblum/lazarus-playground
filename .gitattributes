@@ -6237,6 +6237,8 @@ examples/treeview/TV_Add_Remove_U1.dfm svn_keywords=Author+Date+Id+Revision svn_
 examples/treeview/tv_add_remove.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/treeview/tv_add_remove_u1.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/treeview/tv_add_remove_u1.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+examples/turbopower_ipro/htmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/turbopower_ipro/htmain.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/turbopower_ipro/index.html svn_mime_002dtype=text%2Fhtml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/turbopower_ipro/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/turbopower_ipro/mainunit.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
@@ -6244,6 +6246,8 @@ examples/turbopower_ipro/readme.txt svn_mime_002dtype=text%2Fplain svn_keywords=
 examples/turbopower_ipro/simplepage2.html svn_mime_002dtype=text%2Fhtml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/turbopower_ipro/tpiproexample.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/turbopower_ipro/tpiproexample.lpr svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+examples/turbopower_ipro/tpiprohtmltree.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/turbopower_ipro/tpiprohtmltree.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/widestringstreaming/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/widestringstreaming/mainunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/widestringstreaming/widestringstreaming.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
