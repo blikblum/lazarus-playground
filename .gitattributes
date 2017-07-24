@@ -1477,6 +1477,7 @@ components/fppkg/languages/lazarusfppkg.hu.po svn_mime_002dtype=text%2Fplain svn
 components/fppkg/languages/lazarusfppkg.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/languages/lazarusfppkg.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/languages/lazarusfppkg.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/lazarusfppkg.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/src/fppkg_aboutfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/src/fppkg_aboutfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
