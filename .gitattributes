@@ -1543,6 +1543,10 @@ components/fpvectorial/examples/wmfviewer.lpr svn_mime_002dtype=text%2Fplain svn
 components/fpvectorial/fpvectbuildunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvectorial.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvectorial.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/fpvectorial2aggpas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/fpvectorial2aggpaspkg.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/fpvectorial2aggpaspkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpvectorial/fpvectorial2canvas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvectorialpkg.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvectorialpkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/fpvtocanvas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
