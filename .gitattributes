@@ -4323,6 +4323,7 @@ components/synedit/test/testmarkupifdef.pas svn_mime_002dtype=text%2Fpascal svn_
 components/synedit/test/testmarkupwordgroup.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testmulticaret.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/synedit/test/testnavigation.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/synedit/test/testnestedfoldslist.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testpaintcolormerging.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testsearch.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testsynbeautifier.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
