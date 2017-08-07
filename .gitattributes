@@ -610,6 +610,14 @@ components/anchordocking/minide/simplefrm.lfm svn_mime_002dtype=text%2Fplain svn
 components/anchordocking/minide/simplefrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/minide/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/minide/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/minidewithdockpanel/layout.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/minidewithdockpanel/miniide1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/minidewithdockpanel/miniide1.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/anchordocking/minidewithdockpanel/miniide1.res svn_mime_002dtype=application%2Foctet-stream
+components/anchordocking/minidewithdockpanel/simplefrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/minidewithdockpanel/simplefrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/anchordocking/minidewithdockpanel/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/minidewithdockpanel/unit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/anchordocking/restoredebugger/ADRestoreDebugger.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/restoredebugger/ADRestoreDebugger.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/restoredebugger/adlayoutviewer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
