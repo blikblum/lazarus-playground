@@ -1517,6 +1517,8 @@ components/fpreport/cfgfpreportimageexport.lfm svn_mime_002dtype=text%2Fplain sv
 components/fpreport/cfgfpreportimageexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/cfgfpreportpdfexport.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/cfgfpreportpdfexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/demo/lcldemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/demo/lcldemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/bitmaps/bitmaps.lst svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/bitmaps/tfpjsonreport.png svn_mime_002dtype=image%2Fpng
 components/fpreport/design/bitmaps/tfpreport.png svn_mime_002dtype=image%2Fpng
