@@ -1511,6 +1511,91 @@ components/fppkg/standalone/lazarusfppkg.ico svn_mime_002dtype=image%2Fx-icon
 components/fppkg/standalone/lazarusfppkg.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/standalone/lazarusfppkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/standalone/lazarusfppkg.res svn_mime_002dtype=application%2Foctet-stream
+components/fpreport/cfgfpreporthtmlexport.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/cfgfpreporthtmlexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/cfgfpreportimageexport.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/cfgfpreportimageexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/cfgfpreportpdfexport.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/cfgfpreportpdfexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/bitmaps/bitmaps.lst svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/bitmaps/tfpjsonreport.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreport.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportcollectiondata.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportdatasetdata.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportdesigner.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportexportfpimage.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportexporthtml.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportexportpdf.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportjsondata.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportobjectlistdata.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportpreviewexport.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportprinterexport.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/bitmaps/tfpreportuserdata.png svn_mime_002dtype=image%2Fpng
+components/fpreport/design/designreportdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/drawruler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fpreportdesignctrl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fpreportdesigner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fpreportdesigner_icon.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fpreportdesignobjectlist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fpreporticons.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fracsvdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fracsvdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fradbfdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/fradbfdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frajsondata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frajsondata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frareportdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frareportdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frareportobjectinspector.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frareportobjectinspector.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frasqldbdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frasqldbdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmalignelements.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmalignelements.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmconfigreportdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmconfigreportdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmideselectreportdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmideselectreportdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportdataconnectioneditor.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportdataconnectioneditor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportdesignermain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportdesignermain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportimageedit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportimageedit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportmemoedit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportmemoedit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportpreviewdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportpreviewdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportproperties.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportproperties.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportshapeedit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportshapeedit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportvariables.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmreportvariables.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmresizeelements.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmresizeelements.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/lazfpreportdesign.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/lazfpreportdesign.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/lazidefpreport.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/lazidefpreport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/lazideregfpreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/regfpdesigner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/reportdesign.ico svn_mime_002dtype=application%2Foctet-stream
+components/fpreport/design/reportdesign.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/reportdesign.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/reportdesign.res svn_mime_002dtype=application%2Foctet-stream
+components/fpreport/design/reportdesignbaseforms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/reportdesigndatasql.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/testimage.png svn_mime_002dtype=image%2Fpng
+components/fpreport/dlginputcombo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/fpjsonreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/fpreportformexport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/fpreportlclexport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/fpreportpreview.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/fpreportpreview.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/fpreportprinterexport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/lclfpreport.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/lclfpreport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisocncgcodereader.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisocncgcodewriter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpvectorial/avisozlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
