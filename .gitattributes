@@ -1184,13 +1184,17 @@ components/datetimectrls/design/Makefile svn_mime_002dtype=text%2Fplain svn_eol_
 components/datetimectrls/design/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datetimectrls/design/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datetimectrls/design/datetimecontrolsreg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/datetimectrls/design/datetimectrls.lrs svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/datetimectrls/design/datetimectrls.res svn_mime_002dtype=application%2Foctet-stream
 components/datetimectrls/design/datetimectrlsdsgn.lpk svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 components/datetimectrls/design/datetimectrlsdsgn.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/design/datetimepickerpropedit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/lclcalwrapper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/pictures/TDBDateTimePicker.png svn_mime_002dtype=image%2Fpng
 components/datetimectrls/pictures/TDateTimePicker.png svn_mime_002dtype=image%2Fpng
+components/datetimectrls/pictures/TDateTimePicker_150.png svn_mime_002dtype=application%2Foctet-stream
+components/datetimectrls/pictures/TDateTimePicker_200.png svn_mime_002dtype=application%2Foctet-stream
+components/datetimectrls/pictures/datetimectrls_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/datetimectrls/pictures/make_datetimectrls_images.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/datetimectrls/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/dbexport/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/dbexport/dbexportimg.res svn_mime_002dtype=application%2Foctet-stream
