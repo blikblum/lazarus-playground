@@ -1190,6 +1190,8 @@ components/datetimectrls/design/datetimectrlsdsgn.pas svn_mime_002dtype=text%2Fp
 components/datetimectrls/design/datetimepickerpropedit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/lclcalwrapper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/datetimectrls/pictures/TDBDateTimePicker.png svn_mime_002dtype=image%2Fpng
+components/datetimectrls/pictures/TDBDateTimePicker_150.png svn_mime_002dtype=application%2Foctet-stream
+components/datetimectrls/pictures/TDBDateTimePicker_200.png svn_mime_002dtype=application%2Foctet-stream
 components/datetimectrls/pictures/TDateTimePicker.png svn_mime_002dtype=image%2Fpng
 components/datetimectrls/pictures/TDateTimePicker_150.png svn_mime_002dtype=application%2Foctet-stream
 components/datetimectrls/pictures/TDateTimePicker_200.png svn_mime_002dtype=application%2Foctet-stream
