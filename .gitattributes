@@ -4546,6 +4546,10 @@ components/tachart/demo/datapointtools/datapointtooldemo.lpr svn_mime_002dtype=t
 components/tachart/demo/datapointtools/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/datapointtools/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/db svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+components/tachart/demo/db-barseries/dbdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/db-barseries/dbdemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/db-barseries/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/db-barseries/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/db/dbdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/db/dbdemo.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/demo/db/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
