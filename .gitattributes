@@ -3555,6 +3555,10 @@ components/onlinepackagemanager/vst/include/carbon/opkman_delphicompat.inc svn_m
 components/onlinepackagemanager/vst/include/carbon/opkman_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/carbon/opkman_uses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/carbon/opkman_uses_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/cocoa/opkman_delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/cocoa/opkman_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/cocoa/opkman_uses.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/cocoa/opkman_uses_lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/generic/opkman_independentfunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/generic/opkman_stubs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/generic/opkman_timerfunctions.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3570,6 +3574,9 @@ components/onlinepackagemanager/vst/include/gtk2/opkman_uses_lclext.inc svn_mime
 components/onlinepackagemanager/vst/include/intf/carbon/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/intf/carbon/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/intf/carbon/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/cocoa/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/cocoa/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/include/intf/cocoa/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/intf/gtk/opkman_olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/intf/gtk/opkman_vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/include/intf/gtk/opkman_vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3619,6 +3626,10 @@ components/onlinepackagemanager/vst/units/carbon/opkman_fakeactivex.pas svn_mime
 components/onlinepackagemanager/vst/units/carbon/opkman_fakemmsystem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/units/carbon/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/units/carbon/opkman_virtualpanningwindow.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/cocoa/opkman_fakeactivex.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/cocoa/opkman_fakemmsystem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/cocoa/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/vst/units/cocoa/opkman_virtualpanningwindow.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/units/gtk/opkman_fakeactivex.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/units/gtk/opkman_fakemmsystem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/vst/units/gtk/opkman_virtualdragmanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
