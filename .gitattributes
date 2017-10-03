@@ -687,6 +687,7 @@ components/chmhelp/lhelp/lnethttpdataprovider.pas svn_mime_002dtype=text%2Fplain
 components/chmhelp/packages/help/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/chmhelp/packages/help/design/copyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/design/lazhelpchm.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/design/lazhelpchm.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/help/design/lazhelpchm.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6961,6 +6962,8 @@ images/components/tarrow.png svn_mime_002dtype=image%2Fpng
 images/components/tarrow_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tarrow_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tasyncprocess.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tasyncprocess_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tasyncprocess_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tbevel.png svn_mime_002dtype=image%2Fpng
 images/components/tbevel_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tbevel_200.png svn_mime_002dtype=application%2Foctet-stream
@@ -7076,6 +7079,8 @@ images/components/teditbutton.png svn_mime_002dtype=image%2Fpng
 images/components/teditbutton_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/teditbutton_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/teventlog.png svn_mime_002dtype=image%2Fpng
+images/components/teventlog_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/teventlog_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tfilelistbox.png svn_mime_002dtype=image%2Fpng
 images/components/tfilenameedit.png svn_mime_002dtype=image%2Fpng
 images/components/tfiltercombobox.png svn_mime_002dtype=application%2Foctet-stream
@@ -7101,6 +7106,8 @@ images/components/theadercontrol.png svn_mime_002dtype=image%2Fpng
 images/components/theadercontrol_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/theadercontrol_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/thtmlbrowserhelpviewer.png svn_mime_002dtype=image%2Fpng
+images/components/thtmlbrowserhelpviewer_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/thtmlbrowserhelpviewer_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/thtmlhelpdatabase.png svn_mime_002dtype=image%2Fpng
 images/components/thtmlhelpdatabase_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/thtmlhelpdatabase_200.png svn_mime_002dtype=application%2Foctet-stream
@@ -7127,6 +7134,8 @@ images/components/tlabelededit.png svn_mime_002dtype=image%2Fpng
 images/components/tlabelededit_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tlabelededit_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tlazcomponentqueue.png svn_mime_002dtype=image%2Fpng
+images/components/tlazcomponentqueue_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tlazcomponentqueue_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tlistbox.png svn_mime_002dtype=image%2Fpng
 images/components/tlistbox_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tlistbox_200.png svn_mime_002dtype=application%2Foctet-stream
@@ -7174,7 +7183,11 @@ images/components/tpopupnotifier.png svn_mime_002dtype=image%2Fpng
 images/components/tpopupnotifier_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tpopupnotifier_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tprocess.png svn_mime_002dtype=image%2Fpng
+images/components/tprocess_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tprocess_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tprocessutf8.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tprocessutf8_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tprocessutf8_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tprogressbar.png svn_mime_002dtype=image%2Fpng
 images/components/tprogressbar_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tprogressbar_200.png svn_mime_002dtype=application%2Foctet-stream
@@ -7202,13 +7215,19 @@ images/components/tscrollbox_200.png svn_mime_002dtype=application%2Foctet-strea
 images/components/tselectdirectorydialog.png svn_mime_002dtype=image%2Fpng
 images/components/tselectdirectorydialog_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tservicemanager.png svn_mime_002dtype=image%2Fpng
+images/components/tservicemanager_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tservicemanager_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tshape.png svn_mime_002dtype=image%2Fpng
 images/components/tshape_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tshape_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tshelllistview.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tshelltreeview.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tsimpleipcclient.png svn_mime_002dtype=image%2Fpng
+images/components/tsimpleipcclient_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tsimpleipcclient_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tsimpleipcserver.png svn_mime_002dtype=image%2Fpng
+images/components/tsimpleipcserver_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/tsimpleipcserver_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tspeedbutton.png svn_mime_002dtype=image%2Fpng
 images/components/tspeedbutton_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tspeedbutton_200.png svn_mime_002dtype=application%2Foctet-stream
