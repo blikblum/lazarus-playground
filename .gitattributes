@@ -9866,6 +9866,7 @@ packager/globallinks/fpcunitide-0.1.lpl svn_mime_002dtype=text%2Fplain svn_keywo
 packager/globallinks/fpcunittestrunner-0.1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/fpdebug-0.lpl svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packager/globallinks/fppkgpackagemanager-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/fpvectorial2aggpaspkg-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/fpvectorialpkg-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/gdbmitestutils-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/h2paswizard-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9889,7 +9890,9 @@ packager/globallinks/lazdebuggerfp-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_
 packager/globallinks/lazdebuggerfpdserver-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazdebuggerfpgdbmi-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazdebuggergdbmi-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazfpreportdesign-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazgoogleapis-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazidefpreport-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazmouseandkeyinput-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazmrumenu-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazopenglcontext-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9906,6 +9909,7 @@ packager/globallinks/lazwebextra-0.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_
 packager/globallinks/lazwiki-1.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lcl-1.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lclbase-1.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lclfpreport-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/leakview-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lhelpcontrolpkg-0.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lr_add_function-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9925,7 +9929,7 @@ packager/globallinks/memdslaz-1.2.1.lpl svn_mime_002dtype=text%2Fplain svn_keywo
 packager/globallinks/messagecomposerpkg-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/multithreadprocslaz-1.2.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/notlcldesigner-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/onlinepackagemanager-1.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/onlinepackagemanager-1.0.1.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/packagetabs-0.1.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/pascalscript-0.0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/pascalscriptfcl-0.0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
