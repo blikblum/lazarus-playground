@@ -1026,6 +1026,7 @@ components/codetools/tests/laztests/tunitdots.main.pas svn_mime_002dtype=text%2F
 components/codetools/tests/laztests/unit_order_a.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/unit_order_b.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/unitdots.dot.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/tests/laztests/unitdots.nsa.nsaa.nsaaa.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/laztests/unitdots.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_arrays.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/tests/moduletests/fdt_basic.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
