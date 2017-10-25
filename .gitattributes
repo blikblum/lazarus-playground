@@ -10071,6 +10071,7 @@ test/ideintf/testmenuintf.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 test/ideintf/testmenuintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/TestLazLogger.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 test/lazutils/testavglvltree.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+test/lazutils/testlazfileutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/testlazloggercase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 test/lazutils/testlazutf16.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/lazutils/testlazutf8.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
