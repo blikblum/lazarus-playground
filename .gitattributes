@@ -2424,16 +2424,38 @@ components/lazcontrols/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 components/lazcontrols/images/lazcontrols.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazcontrols/images/lazcontrols_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazcontrols/images/tcheckboxthemed.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/tcheckboxthemed_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tcheckboxthemed_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/tdividerbevel.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tdividerbevel_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tdividerbevel_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/textendednotebook.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/textendednotebook_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/textendednotebook_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/textendedtabcontrol.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/textendedtabcontrol_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/textendedtabcontrol_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/tfloatspineditex.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/tfloatspineditex_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tfloatspineditex_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/tlistfilteredit.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tlistfilteredit_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tlistfilteredit_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/tlistviewfilteredit.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/tlistviewfilteredit_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tlistviewfilteredit_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/tlvlgraphcontrol.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/tlvlgraphcontrol_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tlvlgraphcontrol_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/tshortpathedit.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/tshortpathedit_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tshortpathedit_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/tspineditex.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/tspineditex_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/tspineditex_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/images/ttreefilteredit.png svn_mime_002dtype=image%2Fpng
+components/lazcontrols/images/ttreefilteredit_150.png svn_mime_002dtype=application%2Foctet-stream
+components/lazcontrols/images/ttreefilteredit_200.png svn_mime_002dtype=application%2Foctet-stream
 components/lazcontrols/lazcontrols.lpk svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 components/lazcontrols/lazcontrols.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazcontrols/lazcontrols.res svn_mime_002dtype=application%2Foctet-stream
