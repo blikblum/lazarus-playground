@@ -6318,8 +6318,6 @@ examples/shapedcontrols/project1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002d
 examples/shapedcontrols/project1.lpr svn_mime_002dtype=test%2Fpascal svn_eol_002dstyle=native
 examples/shapedcontrols/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/shapedcontrols/unit1.pas svn_mime_002dtype=test%2Fpascal svn_eol_002dstyle=native
-examples/speedtest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/speedtest.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/sprites/playground.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/sprites/playground.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/sprites/spriteexample.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
