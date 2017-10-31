@@ -6037,33 +6037,7 @@ examples/fontenum/fontenumeration.lpr svn_mime_002dtype=text%2Fpascal svn_eol_00
 examples/fontenum/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/fontenum/mainunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/fpdocmanager svnc_bugtraq_003aurl svnc_bugtraq_003anumber=true svnc_bugtraq_003alogregex
-examples/fpdocmanager/FPDocManager.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/FPDocManager.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/FilenameExtension.patch svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/configfile.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/fpdocmanager/docs svnc_bugtraq_003aurl svnc_bugtraq_003anumber=true svnc_bugtraq_003alogregex
-examples/fpdocmanager/docs/configfile.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/docs/fconfig.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/docs/flogview.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/docs/fmain.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/docs/fupdateview.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/docs/ulpk.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/docs/umakeskel.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/docs/umanager.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/fconfig.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/fconfig.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/feditor.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/feditor.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/flogview.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/flogview.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/fmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/fmain.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/fupdateview.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-examples/fpdocmanager/fupdateview.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/ulpk.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/umakeskel.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager/umanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/gridexamples/cell_overflow/celloverflow_demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/cell_overflow/celloverflow_demo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/cell_overflow/comain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
