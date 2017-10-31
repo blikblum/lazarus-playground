@@ -6750,6 +6750,7 @@ ide/newdialog.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/newdialog.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/newprojectdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/newprojectdlg.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+ide/notifyprocessend.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/objectlists.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/patheditordlg.lfm svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/patheditordlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
