@@ -781,8 +781,6 @@ components/codetools/examples/addwith.lpi svn_mime_002dtype=text%2Fplain svn_eol
 components/codetools/examples/addwith.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/autoindent.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/autoindent.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/codetools/examples/changeparamlist.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/codetools/examples/changeparamlist.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/codecompletion.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/codecompletion.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/completeabstractmethods.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
