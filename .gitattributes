@@ -850,6 +850,7 @@ components/codetools/examples/scanexamples/genericsexample.pas svn_mime_002dtype
 components/codetools/examples/scanexamples/getcontextexample.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/getterexample1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/identcomplexample.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/examples/scanexamples/include/BrokenIncFile2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/indentation.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/initvars1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/methodjump1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
