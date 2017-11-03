@@ -841,6 +841,7 @@ components/codetools/examples/scanexamples/brokenfilenames.pas svn_mime_002dtype
 components/codetools/examples/scanexamples/brokenincfiles.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/changeparamlist1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/commentsidentifiers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/codetools/examples/scanexamples/completeprocbeginend.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/completion1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/directives1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/codetools/examples/scanexamples/empty.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
