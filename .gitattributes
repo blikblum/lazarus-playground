@@ -6982,6 +6982,8 @@ images/codetoolsdefines/da_undefine.png svn_mime_002dtype=image%2Fpng
 images/codetoolsdefines/da_undefineall.png svn_mime_002dtype=image%2Fpng
 images/codetoolsdefines/da_undefinerecurse.png svn_mime_002dtype=image%2Fpng
 images/components/default.png svn_mime_002dtype=image%2Fpng
+images/components/default_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/default_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tactionlist.png svn_mime_002dtype=image%2Fpng
 images/components/tactionlist_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/tactionlist_200.png svn_mime_002dtype=application%2Foctet-stream
@@ -7341,6 +7343,8 @@ images/components/txmlpropstorage.png svn_mime_002dtype=image%2Fpng
 images/components/txmlpropstorage_150.png svn_mime_002dtype=application%2Foctet-stream
 images/components/txmlpropstorage_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components/unregisteredcomponent.png svn_mime_002dtype=image%2Fpng
+images/components/unregisteredcomponent_150.png svn_mime_002dtype=application%2Foctet-stream
+images/components/unregisteredcomponent_200.png svn_mime_002dtype=application%2Foctet-stream
 images/components_images.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 images/components_images.res svn_mime_002dtype=application%2Foctet-stream
 images/components_images.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
