@@ -4896,6 +4896,7 @@ components/tachart/tadrawersvg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 components/tachart/tadrawerwmf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tadrawutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taenumerators.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/taexpressionseries.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/tafitutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tafonts.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/tafuncseries.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
