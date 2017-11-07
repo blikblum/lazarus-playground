@@ -8099,11 +8099,21 @@ lcl/images/btncalcok.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author
 lcl/images/btncalcplus.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/images/btncalcpmin.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/images/btncalculator.png svn_mime_002dtype=image%2Fpng
+lcl/images/btncalculator_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/btncalculator_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/btncalendar.png svn_mime_002dtype=image%2Fpng
+lcl/images/btncalendar_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/btncalendar_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/btnfiltercancel.png svn_mime_002dtype=application%2Foctet-stream
 lcl/images/btnseldir.png svn_mime_002dtype=image%2Fpng
+lcl/images/btnseldir_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/btnseldir_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/btnselfile.png svn_mime_002dtype=image%2Fpng
+lcl/images/btnselfile_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/btnselfile_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/btntime.png svn_mime_002dtype=image%2Fpng
+lcl/images/btntime_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/btntime_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_abort.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_all.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_arrowright.png svn_mime_002dtype=application%2Foctet-stream
