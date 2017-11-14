@@ -10124,7 +10124,6 @@ test/bugs/8450/project1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 test/bugs/8450/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/bugs/8450/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/bugs/bug8432.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-test/bugs/testfileproc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/bugs/testfileutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 test/bugtestcase.pas svn_mime_002dtype=text%2Fplain svn_keywords=Id svn_eol_002dstyle=native
 test/customdrawn/cd_test_all.ico svn_mime_002dtype=application%2Foctet-stream
