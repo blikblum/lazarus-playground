@@ -3564,6 +3564,7 @@ components/onlinepackagemanager/opkman_createrepositorypackagefrm.pas svn_mime_0
 components/onlinepackagemanager/opkman_downloader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_fpcdef.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_installer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman_intf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_mainfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_mainfrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_options.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
