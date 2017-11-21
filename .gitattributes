@@ -2508,6 +2508,7 @@ components/lazdebuggergdbmi/test/TestApps/ArgVPrg.pas svn_mime_002dtype=text%2Fp
 components/lazdebuggergdbmi/test/TestApps/EnvPrg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/TestApps/ExceptPrg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/TestApps/ExceptPrgStep.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggergdbmi/test/TestApps/ExceptPrgStepOver.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/TestApps/WatchesPrg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/TestApps/WatchesPrgArray.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/TestApps/WatchesPrgEnum.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
