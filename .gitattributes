@@ -5109,9 +5109,17 @@ components/turbopower_ipro/languages/iputils.uk.po svn_mime_002dtype=text%2Fplai
 components/turbopower_ipro/languages/iputils.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/turbopower_ipro/make_icons.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/turbopower_ipro/tipfiledataprovider.png svn_mime_002dtype=image%2Fpng
+components/turbopower_ipro/tipfiledataprovider_150.png svn_mime_002dtype=application%2Foctet-stream
+components/turbopower_ipro/tipfiledataprovider_200.png svn_mime_002dtype=application%2Foctet-stream
 components/turbopower_ipro/tiphtmldataprovider.png svn_mime_002dtype=application%2Foctet-stream
+components/turbopower_ipro/tiphtmldataprovider_150.png svn_mime_002dtype=application%2Foctet-stream
+components/turbopower_ipro/tiphtmldataprovider_200.png svn_mime_002dtype=application%2Foctet-stream
 components/turbopower_ipro/tiphtmlpanel.png svn_mime_002dtype=image%2Fpng
+components/turbopower_ipro/tiphtmlpanel_150.png svn_mime_002dtype=application%2Foctet-stream
+components/turbopower_ipro/tiphtmlpanel_200.png svn_mime_002dtype=application%2Foctet-stream
 components/turbopower_ipro/tiphttpdataprovider.png svn_mime_002dtype=image%2Fpng
+components/turbopower_ipro/tiphttpdataprovider_150.png svn_mime_002dtype=application%2Foctet-stream
+components/turbopower_ipro/tiphttpdataprovider_200.png svn_mime_002dtype=application%2Foctet-stream
 components/turbopower_ipro/turbopoweripro.lpk svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/turbopower_ipro/turbopoweripro.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/vlc/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
