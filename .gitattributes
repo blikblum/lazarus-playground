@@ -241,6 +241,7 @@ components/activex/languages/activexstrconsts.hu.po svn_mime_002dtype=text%2Fpla
 components/activex/languages/activexstrconsts.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/activex/languages/activexstrconsts.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/activex/languages/activexstrconsts.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/activex/languages/activexstrconsts.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/activex/languages/activexstrconsts.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/activex/languages/activexstrconsts.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/activex/languages/activexstrconsts.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -673,6 +674,7 @@ components/chmhelp/lhelp/languages/lhelp.fr.po svn_mime_002dtype=text%2Fplain sv
 components/chmhelp/lhelp/languages/lhelp.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/lhelp/languages/lhelp.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/lhelp/languages/lhelp.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/chmhelp/lhelp/languages/lhelp.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/lhelp/languages/lhelp.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/lhelp/languages/lhelp.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/lhelp/languages/lhelp.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -721,6 +723,7 @@ components/chmhelp/packages/idehelp/languages/lazchmhelp.hu.po svn_mime_002dtype
 components/chmhelp/packages/idehelp/languages/lazchmhelp.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/idehelp/languages/lazchmhelp.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/idehelp/languages/lazchmhelp.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/chmhelp/packages/idehelp/languages/lazchmhelp.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/idehelp/languages/lazchmhelp.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/idehelp/languages/lazchmhelp.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/chmhelp/packages/idehelp/languages/lazchmhelp.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1072,6 +1075,7 @@ components/compilers/c/languages/lazcstrconsts.hu.po svn_mime_002dtype=text%2Fpl
 components/compilers/c/languages/lazcstrconsts.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/languages/lazcstrconsts.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/languages/lazcstrconsts.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/compilers/c/languages/lazcstrconsts.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/languages/lazcstrconsts.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/languages/lazcstrconsts.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/c/languages/lazcstrconsts.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1336,6 +1340,7 @@ components/favorites/languages/favoritesstr.fr.po svn_mime_002dtype=text%2Fplain
 components/favorites/languages/favoritesstr.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/favorites/languages/favoritesstr.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/favorites/languages/favoritesstr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/favorites/languages/favoritesstr.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/favorites/languages/favoritesstr.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/favorites/languages/favoritesstr.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/favorites/languages/favoritesstr.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1512,6 +1517,7 @@ components/fppkg/languages/lazarusfppkg.fr.po svn_mime_002dtype=text%2Fplain svn
 components/fppkg/languages/lazarusfppkg.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/languages/lazarusfppkg.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/languages/lazarusfppkg.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/languages/lazarusfppkg.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/languages/lazarusfppkg.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/languages/lazarusfppkg.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2508,6 +2514,7 @@ components/lazdebuggergdbmi/languages/gdbmiserverdebugger.hu.po svn_mime_002dtyp
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggergdbmi/languages/gdbmiserverdebugger.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2892,6 +2899,7 @@ components/lazreport/source/addons/addfunction/languages/lr_add_function_const.h
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/addfunction/languages/lr_add_function_const.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/lrAddFunctionLibrary.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -2927,6 +2935,7 @@ components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.h
 components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrEmailExport/languages/lrEmailExportFilter.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2990,6 +2999,7 @@ components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadshee
 components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadsheet_consts.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadsheet_consts.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadsheet_consts.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadsheet_consts.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadsheet_consts.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadsheet_consts.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/lrspreadsheetexport/languages/le_e_spreadsheet_consts.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3178,6 +3188,7 @@ components/lazthread/languages/reglazthread.hu.po svn_mime_002dtype=text%2Fplain
 components/lazthread/languages/reglazthread.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/reglazthread.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/reglazthread.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazthread/languages/reglazthread.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/reglazthread.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/reglazthread.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/reglazthread.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3187,6 +3198,7 @@ components/lazthread/languages/threadoptionsdialog.hu.po svn_mime_002dtype=text%
 components/lazthread/languages/threadoptionsdialog.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/threadoptionsdialog.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/threadoptionsdialog.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazthread/languages/threadoptionsdialog.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/threadoptionsdialog.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/threadoptionsdialog.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazthread/languages/threadoptionsdialog.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3395,6 +3407,7 @@ components/macroscript/languages/emsstrings.hu.po svn_mime_002dtype=text%2Fplain
 components/macroscript/languages/emsstrings.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/macroscript/languages/emsstrings.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/macroscript/languages/emsstrings.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/macroscript/languages/emsstrings.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/macroscript/languages/emsstrings.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/macroscript/languages/emsstrings.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/macroscript/languages/emsstrings.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3556,6 +3569,7 @@ components/onlinepackagemanager/languages/opkman_VirtualTrees.fr.po svn_mime_002
 components/onlinepackagemanager/languages/opkman_VirtualTrees.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_VirtualTrees.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_VirtualTrees.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3565,6 +3579,7 @@ components/onlinepackagemanager/languages/opkman_const.fr.po svn_mime_002dtype=t
 components/onlinepackagemanager/languages/opkman_const.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_const.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3572,6 +3587,7 @@ components/onlinepackagemanager/languages/opkman_httpclient.fr.po svn_mime_002dt
 components/onlinepackagemanager/languages/opkman_httpclient.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_httpclient.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_httpclient.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3579,6 +3595,7 @@ components/onlinepackagemanager/languages/opkman_zip.fr.po svn_mime_002dtype=tex
 components/onlinepackagemanager/languages/opkman_zip.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/languages/opkman_zip.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_zip.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/onlinepackagemanager.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3747,6 +3764,7 @@ components/packagetabs/languages/packagetabsstr.fr.po svn_mime_002dtype=text%2Fp
 components/packagetabs/languages/packagetabsstr.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/packagetabs/languages/packagetabsstr.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3882,6 +3900,7 @@ components/printers/languages/printer4lazstrconst.fr.po svn_mime_002dtype=text%2
 components/printers/languages/printer4lazstrconst.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/languages/printer4lazstrconst.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/languages/printer4lazstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/printers/languages/printer4lazstrconst.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/languages/printer4lazstrconst.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/languages/printer4lazstrconst.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/languages/printer4lazstrconst.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3963,6 +3982,7 @@ components/projectgroups/languages/projectgroupstrconst.hu.po svn_mime_002dtype=
 components/projectgroups/languages/projectgroupstrconst.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/projectgroups/languages/projectgroupstrconst.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/languages/projectgroupstrconst.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/projectgroups/lazprojectgroups.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4129,6 +4149,7 @@ components/sparta/dockedformeditor/language/sparta_strconsts.fr.po svn_mime_002d
 components/sparta/dockedformeditor/language/sparta_strconsts.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sparta/dockedformeditor/language/sparta_strconsts.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sparta/dockedformeditor/language/sparta_strconsts.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/sparta/dockedformeditor/language/sparta_strconsts.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sparta/dockedformeditor/language/sparta_strconsts.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sparta/dockedformeditor/language/sparta_strconsts.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sparta/dockedformeditor/source/sparta_designedform.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -4319,6 +4340,7 @@ components/sqlite/languages/sqlitecompstrings.fr.po svn_mime_002dtype=text%2Fpla
 components/sqlite/languages/sqlitecompstrings.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/sqlite/languages/sqlitecompstrings.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/sqlite/languages/sqlitecompstrings.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4899,6 +4921,7 @@ components/tachart/languages/tachartstrconsts.fr.po svn_mime_002dtype=text%2Fpla
 components/tachart/languages/tachartstrconsts.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/languages/tachartstrconsts.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/languages/tachartstrconsts.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/languages/tachartstrconsts.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/languages/tachartstrconsts.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/languages/tachartstrconsts.se.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/languages/tachartstrconsts.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
