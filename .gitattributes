@@ -2490,6 +2490,8 @@ components/lazcontrols/listfilteredit.pas svn_mime_002dtype=text%2Fplain svn_eol
 components/lazcontrols/listviewfilteredit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazcontrols/lvlgraphctrl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazcontrols/shortpathedit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazcontrols/smallorderedseteditor.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazcontrols/smallorderedseteditor.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazcontrols/spinex.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazcontrols/spinex.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazcontrols/treefilteredit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
