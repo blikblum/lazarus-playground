@@ -134,16 +134,38 @@ components/PascalScript/Samples/TestApp/fMain.pas svn_mime_002dtype=text%2Fpasca
 components/PascalScript/Source svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/PascalScript/Source/Glyphs svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/PascalScript/Source/Glyphs/TPSCustomPlugin.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSCustomPlugin_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSCustomPlugin_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSDllPlugin.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSDllPlugin_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSDllPlugin_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSImport_Classes.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSImport_Classes_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSImport_Classes_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSImport_ComObj.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSImport_ComObj_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSImport_ComObj_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSImport_Controls.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSImport_Controls_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSImport_Controls_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSImport_DB.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSImport_DB_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSImport_DB_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSImport_DateUtils.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSImport_DateUtils_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSImport_DateUtils_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSImport_Forms.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSImport_Forms_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSImport_Forms_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSImport_StdCtrls.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSImport_StdCtrls_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSImport_StdCtrls_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Glyphs/TPSScript.png svn_mime_002dtype=image%2Fpng
 components/PascalScript/Source/Glyphs/TPSScriptDebugger.png svn_mime_002dtype=image%2Fpng
+components/PascalScript/Source/Glyphs/TPSScriptDebugger_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSScriptDebugger_200.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSScript_150.png svn_mime_002dtype=application%2Foctet-stream
+components/PascalScript/Source/Glyphs/TPSScript_200.png svn_mime_002dtype=application%2Foctet-stream
 components/PascalScript/Source/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/PascalScript/Source/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/PascalScript/Source/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
