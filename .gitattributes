@@ -6484,6 +6484,7 @@ examples/translation/languages/translation_demo.hu.po svn_mime_002dtype=text%2Fp
 examples/translation/languages/translation_demo.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/languages/translation_demo.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/languages/translation_demo.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/translation/languages/translation_demo.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/languages/translation_demo.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/languages/translation_demo.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/translation/languages/translation_demo.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8101,6 +8102,7 @@ languages/debuggerstrconst.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 languages/debuggerstrconst.ja.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/debuggerstrconst.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/debuggerstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+languages/debuggerstrconst.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/debuggerstrconst.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/debuggerstrconst.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/lazaruside.af_ZA.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
