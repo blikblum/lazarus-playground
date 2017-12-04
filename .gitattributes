@@ -11040,6 +11040,7 @@ tools/glazres/languages/glazres.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002
 tools/glazres/languages/glazres.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/languages/glazres.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/languages/glazres.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/glazres/languages/glazres.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/languages/glazres.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/languages/glazres.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/iconvtable.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
