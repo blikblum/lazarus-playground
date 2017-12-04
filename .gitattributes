@@ -11035,6 +11035,7 @@ tools/glazres/glazres.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 tools/glazres/glazresmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/glazresmain.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/glazresmain.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tools/glazres/languages/glazres.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/languages/glazres.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/languages/glazres.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/glazres/languages/glazres.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
