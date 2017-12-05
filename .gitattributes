@@ -3810,6 +3810,15 @@ components/paradox/regparadox.res svn_mime_002dtype=application%2Foctet-stream
 components/paradox/tparadox.png svn_mime_002dtype=image%2Fpng
 components/paradox/tparadox_150.png svn_mime_002dtype=application%2Foctet-stream
 components/paradox/tparadox_200.png svn_mime_002dtype=application%2Foctet-stream
+components/pas2js/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/Pas2JSDsgn.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/languages/pjsdsgnregister.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/pas2jsdsgn.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/pas2jsdsgn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/pjsdsgnregister.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/plotfunction/demo/event/frmmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/plotfunction/demo/event/frmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/plotfunction/demo/event/ploteventdemo.ico svn_mime_002dtype=image%2Fico
@@ -10114,6 +10123,7 @@ packager/globallinks/multithreadprocslaz-1.2.1.lpl svn_mime_002dtype=text%2Fplai
 packager/globallinks/notlcldesigner-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/onlinepackagemanager-1.0.1.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/packagetabs-0.1.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/pas2jsdsgn-1.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/pascalscript-0.0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/pascalscriptfcl-0.0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/pochecker-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
