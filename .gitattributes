@@ -6415,6 +6415,11 @@ examples/motiongraphics/motiongraphics.ico svn_mime_002dtype=application%2Foctet
 examples/motiongraphics/motiongraphics.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/motiongraphics/motiongraphics.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/motiongraphics/motiongraphics.res svn_mime_002dtype=application%2Foctet-stream
+examples/mousebuttons/mousetest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/mousebuttons/mousetest.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/mousebuttons/mousetest.res svn_mime_002dtype=application%2Foctet-stream
+examples/mousebuttons/uform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/mousebuttons/uform.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/mssql/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/mssql/dbform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/mssql/dbform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
