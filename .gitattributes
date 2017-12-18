@@ -3779,9 +3779,12 @@ components/opengl/glqtcontext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 components/opengl/glwin32wglcontext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/opengl/lazopenglcontext.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/opengl/lazopenglcontext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/opengl/makeicon.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/opengl/openglcontext.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/opengl/openglcontext.res svn_mime_002dtype=application%2Foctet-stream
-components/opengl/topenglcontrol.xpm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/opengl/topenglcontrol.png svn_mime_002dtype=image%2Fpng
+components/opengl/topenglcontrol_150.png svn_mime_002dtype=image%2Fpng
+components/opengl/topenglcontrol_200.png svn_mime_002dtype=image%2Fpng
 components/packagetabs/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/packagetabs/languages/packagetabsstr.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
