@@ -1109,8 +1109,6 @@ components/compilers/javascript/examples/ReadJSClassesXML.ico svn_mime_002dtype=
 components/compilers/javascript/examples/ReadJSClassesXML.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/javascript/examples/ReadJSClassesXML.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/compilers/javascript/examples/jsclassxmlread.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/custom/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-components/custom/customidecomps.pas.template svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/customdrawn svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/customdrawn/build_resources.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/customdrawn/customdrawn.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10285,10 +10283,6 @@ packager/missingpkgfilesdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packager/missingpkgfilesdlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/newpkgcomponentdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/newpkgcomponentdlg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-packager/oldcustomcompadddlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-packager/oldcustomcompadddlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-packager/oldcustomcompdlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-packager/oldcustomcompdlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/openinstalledpkgdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/openinstalledpkgdlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/packagedefs.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
