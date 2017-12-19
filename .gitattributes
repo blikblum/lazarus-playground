@@ -28,6 +28,7 @@ components/IdeLazLogger/languages/idelogger.po svn_mime_002dtype=text%2Fplain sv
 components/IdeLazLogger/languages/idelogger.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/IdeLazLogger/languages/idelogger.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/IdeLazLogger/languages/idelogger.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/IdeLazLogger/languages/idelogger.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/Makefile svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/Makefile.fpc svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/PascalScript svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
@@ -1171,6 +1172,7 @@ components/daemon/languages/reglazdaemon.po svn_mime_002dtype=text%2Fplain svn_e
 components/daemon/languages/reglazdaemon.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/daemon/languages/reglazdaemon.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/daemon/languages/reglazdaemon.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/daemon/languages/reglazdaemon.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/daemon/lazdaemon.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/daemon/lazdaemon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/daemon/lazdaemonapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5353,6 +5355,7 @@ components/turbopower_ipro/languages/iphtmlpv.po svn_mime_002dtype=text%2Fplain 
 components/turbopower_ipro/languages/iphtmlpv.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/turbopower_ipro/languages/iphtmlpv.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/turbopower_ipro/languages/iphtmlpv.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/turbopower_ipro/languages/iphtmlpv.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/turbopower_ipro/languages/iputils.de.po svnc_propset=svn%3Aeol-style svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/turbopower_ipro/languages/iputils.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/turbopower_ipro/languages/iputils.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
