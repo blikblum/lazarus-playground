@@ -6986,6 +6986,8 @@ ide/genericchecklist.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/genericchecklist.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/genericlisteditor.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/genericlisteditor.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/genericlistselect.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/genericlistselect.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/gotofrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/gotofrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/helpfpcmessages.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
