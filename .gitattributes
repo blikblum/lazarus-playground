@@ -3579,6 +3579,7 @@ components/mouseandkeyinput/winmouseinput.pas svn_mime_002dtype=text%2Fpascal sv
 components/mouseandkeyinput/xkeyinput.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/mouseandkeyinput/xmouseinput.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/mpaslex/mpaslex.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+components/mrumenu/build_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/mrumenu/demo/frmmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/mrumenu/demo/frmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/mrumenu/demo/mrudemo.ico svn_mime_002dtype=image%2Fico
@@ -3591,6 +3592,8 @@ components/mrumenu/mrumanager.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 components/mrumenu/reglazmru.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/mrumenu/regmru.res svn_mime_002dtype=application%2Foctet-stream
 components/mrumenu/tmrumenumanager.png svn_mime_002dtype=image%2Fpng
+components/mrumenu/tmrumenumanager_150.png svn_mime_002dtype=image%2Fpng
+components/mrumenu/tmrumenumanager_200.png svn_mime_002dtype=image%2Fpng
 components/multithreadprocs/examples/parallelloop1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/examples/parallelloop1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/examples/parallelloop_nested1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
