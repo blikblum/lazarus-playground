@@ -1141,19 +1141,47 @@ components/customdrawn/resources svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/customdrawn/resources/build.bat svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/customdrawn/resources/paletteimg.txt svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/customdrawn/resources/tcdbutton.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdbutton_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdbutton_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdcheckbox.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdcheckbox_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdcheckbox_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdcombobox.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdcombobox_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdcombobox_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdedit.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdedit_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdedit_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdgroupbox.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdgroupbox_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdgroupbox_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdlistview.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdlistview_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdlistview_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdpagecontrol.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdpagecontrol_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdpagecontrol_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdprogressbar.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdprogressbar_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdprogressbar_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdradiobutton.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdradiobutton_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdradiobutton_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdscrollbar.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdscrollbar_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdscrollbar_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdspinedit.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdspinedit_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdspinedit_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdstatictext.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdstatictext_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdstatictext_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdtabcontrol.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdtabcontrol_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdtabcontrol_200.png svn_mime_002dtype=image%2Fpng
 components/customdrawn/resources/tcdtrackbar.png svn_mime_002dtype=application%2Foctet-stream
+components/customdrawn/resources/tcdtrackbar_150.png svn_mime_002dtype=image%2Fpng
+components/customdrawn/resources/tcdtrackbar_200.png svn_mime_002dtype=image%2Fpng
 components/customform/custforms.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/customform/demo/appform.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/customform/demo/appforms.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
