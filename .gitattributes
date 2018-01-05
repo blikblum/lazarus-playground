@@ -3714,14 +3714,6 @@ components/onlinepackagemanager/images/Tree_Buttons/StarHalfFull.png svn_mime_00
 components/onlinepackagemanager/images/Tree_Buttons/magnifier-minus.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/magnifier-plus.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/onlinepackagemanager/languages/opkman_VirtualTrees.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.fi.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
