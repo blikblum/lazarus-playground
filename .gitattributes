@@ -3852,6 +3852,7 @@ components/pas2js/frmpas2jsnodejsprojectoptions.lfm svn_mime_002dtype=text%2Fpla
 components/pas2js/frmpas2jsnodejsprojectoptions.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/pas2js/frmpas2jswebservers.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/pas2js/frmpas2jswebservers.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/pas2js/languages/strpas2jsdesign.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/pas2js/languages/strpas2jsdesign.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/pas2js/languages/strpas2jsdesign.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/pas2js/languages/strpas2jsdesign.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
