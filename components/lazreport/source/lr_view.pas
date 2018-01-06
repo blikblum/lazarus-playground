@@ -905,6 +905,7 @@ begin
     TfrEMFPages(EMFPages).Free;
   EMFPages := TfrReport(Doc).EMFPages;
   TfrReport(Doc).EMFPages := TfrEMFPages.Create(TfrReport(Doc));
+  PBox.FCurView := nil;
 end;
 
 procedure TfrPreviewForm.ConnectBack;
