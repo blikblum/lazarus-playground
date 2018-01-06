@@ -7184,6 +7184,7 @@ ide/progresswnd.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/progresswnd.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/project.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/projectdefs.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+ide/projectdescriptors.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/projecticon.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/projectinspector.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/projectinspector.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
