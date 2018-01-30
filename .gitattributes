@@ -8322,6 +8322,7 @@ images/sourceeditor/InactiveBreakPoint.png svn_mime_002dtype=application%2Foctet
 images/sourceeditor/InvalidBreakPoint.png svn_mime_002dtype=application%2Foctet-stream
 images/sourceeditor/InvalidDisabledBreakPoint.png svn_mime_002dtype=image%2Fpng
 images/sourceeditor/MultiBreakPoint.png svn_mime_002dtype=application%2Foctet-stream
+images/sourceeditor/PendingBreakPoint.png svn_mime_002dtype=application%2Foctet-stream
 images/sourceeditor/Record.png svn_mime_002dtype=application%2Foctet-stream
 images/sourceeditor/UnknownBreakPoint.png svn_mime_002dtype=application%2Foctet-stream
 images/sourceeditor/UnknownDisabledBreakPoint.png svn_mime_002dtype=image%2Fpng
