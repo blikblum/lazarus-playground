@@ -6452,8 +6452,6 @@ examples/fontenum/fontenumeration.lpi svn_mime_002dtype=text%2Fplain svn_eol_002
 examples/fontenum/fontenumeration.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/fontenum/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/fontenum/mainunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-examples/fpdocmanager svnc_bugtraq_003aurl svnc_bugtraq_003anumber=true svnc_bugtraq_003alogregex
-examples/fpdocmanager/docs svnc_bugtraq_003aurl svnc_bugtraq_003anumber=true svnc_bugtraq_003alogregex
 examples/gridexamples/cell_overflow/celloverflow_demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/cell_overflow/celloverflow_demo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/cell_overflow/comain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
