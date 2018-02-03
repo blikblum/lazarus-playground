@@ -6536,6 +6536,14 @@ examples/imagelist/project1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 examples/imagelist/project1.res svn_mime_002dtype=application%2Foctet-stream
 examples/imagelist/unit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/imagelist/unit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/imagelist_highdpi_designtime/imglistdesign.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+examples/imagelist_highdpi_designtime/imglistdesign.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/imagelist_highdpi_designtime/unit1.lfm svn_mime_002dtype=text%2Flfm svn_eol_002dstyle=native
+examples/imagelist_highdpi_designtime/unit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/imagelist_highdpi_runtime/dpiimagelist.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+examples/imagelist_highdpi_runtime/dpiimagelist.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/imagelist_highdpi_runtime/unit1.lfm svn_mime_002dtype=text%2Flfm svn_eol_002dstyle=native
+examples/imagelist_highdpi_runtime/unit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/imgviewer/file.bmp svn_mime_002dtype=image%2Fbmp svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/imgviewer/file.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/imgviewer/frmmain.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
