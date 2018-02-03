@@ -9045,12 +9045,14 @@ lcl/interfaces/fpgui/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_00
 lcl/interfaces/fpgui/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/fpgui/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/fpgui/alllclintfunits.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/fpgui/fpguicrosshelpers.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguiint.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguilclintf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguilclintfh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguiobject.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguiobjects.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguiproc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/fpgui/fpguithemes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguiwinapi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguiwinapih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/fpgui/fpguiwsbuttons.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
