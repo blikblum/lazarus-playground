@@ -10115,6 +10115,7 @@ lcl/interfaces/win32/win32pagecontrol.inc svn_mime_002dtype=text%2Fpascal svn_eo
 lcl/interfaces/win32/win32proc.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/interfaces/win32/win32themes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/win32/win32trayicon.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+lcl/interfaces/win32/win32treeview.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/win32/win32winapi.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/interfaces/win32/win32winapih.inc svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/interfaces/win32/win32wsbuttons.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
