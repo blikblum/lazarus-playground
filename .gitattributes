@@ -6456,6 +6456,14 @@ examples/fontenum/fontenumeration.lpi svn_mime_002dtype=text%2Fplain svn_eol_002
 examples/fontenum/fontenumeration.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/fontenum/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/fontenum/mainunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/fpreport/common/Bandtest1.json svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/fpreport/simple/ReadMe.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/fpreport/simple/SimpleReportLCL.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/fpreport/simple/SimpleReportLCL.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/fpreport/simple/SimpleReportLCL.res svn_mime_002dtype=application%2Foctet-stream
+examples/fpreport/simple/mainlclreport.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/fpreport/simple/mainlclreport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/fpreport/simple/powered_by.png svn_mime_002dtype=image%2Fpng
 examples/gridexamples/cell_overflow/celloverflow_demo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/cell_overflow/celloverflow_demo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/gridexamples/cell_overflow/comain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
