@@ -3007,6 +3007,7 @@ components/lazreport/source/addons/addfunction/languages/lr_add_function_const.p
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/languages/lr_add_function_const.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazreport/source/addons/addfunction/languages/lr_add_function_const.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/lrAddFunctionLibrary.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/lr_add_function.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/source/addons/addfunction/lr_add_function.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -8437,6 +8438,7 @@ languages/debuggerstrconst.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 languages/debuggerstrconst.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/debuggerstrconst.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/debuggerstrconst.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+languages/debuggerstrconst.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/lazaruside.af_ZA.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 languages/lazaruside.ar.po svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 languages/lazaruside.ca.po svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
