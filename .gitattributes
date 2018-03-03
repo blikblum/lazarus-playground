@@ -5200,6 +5200,7 @@ components/tachart/talegendpanel.pas svn_mime_002dtype=text%2Fpascal svn_eol_002
 components/tachart/tamath.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tamultiseries.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/tanavigation.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/taopengl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taprint.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taradialseries.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/taseries.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
