@@ -1696,7 +1696,6 @@ components/fpreport/design/reportdesignbaseforms.pp svn_mime_002dtype=text%2Fpla
 components/fpreport/design/reportdesigndatasql.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/testimage.png svn_mime_002dtype=image%2Fpng
 components/fpreport/dlginputcombo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/fpreport/fpjsonreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/fpreportformexport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/fpreportlclexport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/fpreportpreview.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
