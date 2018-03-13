@@ -3921,7 +3921,6 @@ components/pochecker/pofamilies.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 components/pochecker/pofamilylists.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/pochecker/resultdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/pochecker/resultdlg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/pochecker/simplepofiles.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
