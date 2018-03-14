@@ -3412,6 +3412,7 @@ components/lazutils/lazutils.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 components/lazutils/lazutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazutils_defines.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/lazutilsstrconsts.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazutils/lazversion.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lconvencoding.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lcsvutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lookupstringlist.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
