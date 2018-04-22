@@ -1590,6 +1590,7 @@ components/fpreport/design/lazidefpreport.lpk svn_mime_002dtype=text%2Fplain svn
 components/fpreport/design/lazidefpreport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/lazideregfpreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/regfpdesigner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/reportconns.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/reportdesign.ico svn_mime_002dtype=application%2Foctet-stream
 components/fpreport/design/reportdesign.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/reportdesign.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
