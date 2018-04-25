@@ -8512,15 +8512,31 @@ lcl/images/dbgridcheckedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002ds
 lcl/images/dbgridgrayedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
 lcl/images/dbgriduncheckedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
 lcl/images/dbnavcancel.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavcancel_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavcancel_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavdelete.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavdelete_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavdelete_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavedit.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavfirst.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavfirst_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavfirst_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavinsert.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavinsert_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavinsert_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavlast.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavlast_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavlast_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavnext.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavnext_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavnext_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavpost.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavprior.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavprior_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavprior_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavrefresh.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavrefresh_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavrefresh_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dialogs/build.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 lcl/images/dialogs/dialog_confirmation.png svn_mime_002dtype=image%2Fpng
 lcl/images/dialogs/dialog_error.png svn_mime_002dtype=image%2Fpng
@@ -8549,7 +8565,11 @@ lcl/images/lcl_grid_images.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 lcl/images/lcl_grid_images.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/images/lcl_grid_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/images/sortasc.png svn_mime_002dtype=application%2Foctet-stream
+lcl/images/sortasc_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/sortasc_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortdesc.png svn_mime_002dtype=application%2Foctet-stream
+lcl/images/sortdesc_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/sortdesc_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/wince/build.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 lcl/images/wince/wincedialog_cancel.png svn_mime_002dtype=application%2Foctet-stream
 lcl/images/wince/wincedialog_ok.PNG svn_mime_002dtype=application%2Foctet-stream
