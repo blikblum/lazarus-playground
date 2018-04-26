@@ -8511,32 +8511,38 @@ lcl/images/cursors/cur_22.cur svn_mime_002dtype=image%2Fx-cursor
 lcl/images/dbgridcheckedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
 lcl/images/dbgridgrayedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
 lcl/images/dbgriduncheckedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
-lcl/images/dbnavcancel.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavcancel_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavcancel_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavdelete.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavdelete_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavdelete_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavedit.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavfirst.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavfirst_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavfirst_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavinsert.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavinsert_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavinsert_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavlast.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavlast_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavlast_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavnext.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavnext_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavnext_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavpost.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavprior.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavprior_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavprior_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavrefresh.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavrefresh_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbnavrefresh_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavcancel.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavcancel_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavcancel_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavdelete.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavdelete_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavdelete_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavedit.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavedit_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavedit_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavfirst.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavfirst_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavfirst_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavinsert.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavinsert_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavinsert_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavlast.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavlast_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavlast_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavnext.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavnext_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavnext_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavpost.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavpost_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavpost_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavprior.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavprior_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavprior_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavrefresh.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavrefresh_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/dbnavrefresh_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbnavigator/lcl_dbnav_images.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/images/dbnavigator/lcl_dbnav_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/images/dialogs/build.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 lcl/images/dialogs/dialog_confirmation.png svn_mime_002dtype=image%2Fpng
 lcl/images/dialogs/dialog_error.png svn_mime_002dtype=image%2Fpng
@@ -8556,8 +8562,6 @@ lcl/images/dock/lcl_dock_to_right.png svn_mime_002dtype=image%2Fpng
 lcl/images/dock/lcl_dock_to_top.png svn_mime_002dtype=image%2Fpng
 lcl/images/lcl_dbgrid_images.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 lcl/images/lcl_dbgrid_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-lcl/images/lcl_dbnav_images.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
-lcl/images/lcl_dbnav_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/images/lcl_edbtnimg.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 lcl/images/lcl_edbtnimg.sh svn_mime_002dtype=text%2Fx-sh svn_eol_002dstyle=native
 lcl/images/lcl_edbtnimg_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
