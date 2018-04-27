@@ -8899,6 +8899,7 @@ lcl/interfaces/cocoa/agl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 lcl/interfaces/cocoa/alllclintfunits.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoa_extra.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoacaret.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+lcl/interfaces/cocoa/cocoadatepicker.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoadefines.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoagdiobjects.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoaint.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8915,6 +8916,7 @@ lcl/interfaces/cocoa/cocoawsbuttons.pp svn_mime_002dtype=text%2Fpascal svn_eol_0
 lcl/interfaces/cocoa/cocoawschecklst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoawscomctrls.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoawscommon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/cocoa/cocoawsdatepicker.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoawsdialogs.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoawsextctrls.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoawsfactory.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
