@@ -8448,9 +8448,9 @@ lcl/images/btncalculator_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/btncalendar.png svn_mime_002dtype=image%2Fpng
 lcl/images/btncalendar_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/btncalendar_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/btnfiltercancel.png svn_mime_002dtype=application%2Foctet-stream
-lcl/images/btnfiltercancel_150.png svn_mime_002dtype=application%2Foctet-stream
-lcl/images/btnfiltercancel_200.png svn_mime_002dtype=application%2Foctet-stream
+lcl/images/btnfiltercancel.png svn_mime_002dtype=image%2Fpng
+lcl/images/btnfiltercancel_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/btnfiltercancel_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/btnseldir.png svn_mime_002dtype=image%2Fpng
 lcl/images/btnseldir_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/btnseldir_200.png svn_mime_002dtype=image%2Fpng
@@ -8466,7 +8466,9 @@ lcl/images/buttons/btn_abort_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_all.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_all_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_all_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/buttons/btn_arrowright.png svn_mime_002dtype=application%2Foctet-stream
+lcl/images/buttons/btn_arrowright.png svn_mime_002dtype=image%2Fpng
+lcl/images/buttons/btn_arrowright_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/buttons/btn_arrowright_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_cancel.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_cancel_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/buttons/btn_cancel_200.png svn_mime_002dtype=image%2Fpng
@@ -8568,10 +8570,10 @@ lcl/images/lcl_edbtnimg_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 lcl/images/lcl_grid_images.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/images/lcl_grid_images.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/images/lcl_grid_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-lcl/images/sortasc.png svn_mime_002dtype=application%2Foctet-stream
+lcl/images/sortasc.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortasc_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortasc_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/sortdesc.png svn_mime_002dtype=application%2Foctet-stream
+lcl/images/sortdesc.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortdesc_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortdesc_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/wince/build.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
