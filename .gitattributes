@@ -8510,9 +8510,15 @@ lcl/images/cursors/cur_18.cur svn_mime_002dtype=image%2Fx-cursor
 lcl/images/cursors/cur_20.cur svn_mime_002dtype=image%2Fx-cursor
 lcl/images/cursors/cur_21.cur svn_mime_002dtype=image%2Fx-cursor
 lcl/images/cursors/cur_22.cur svn_mime_002dtype=image%2Fx-cursor
-lcl/images/dbgridcheckedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
-lcl/images/dbgridgrayedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
-lcl/images/dbgriduncheckedcb.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_eol_002dstyle=native
+lcl/images/dbgridcheckedcb.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgridcheckedcb_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgridcheckedcb_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgridgrayedcb.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgridgrayedcb_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgridgrayedcb_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgriduncheckedcb.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgriduncheckedcb_150.png svn_mime_002dtype=image%2Fpng
+lcl/images/dbgriduncheckedcb_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavigator/dbnavcancel.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavigator/dbnavcancel_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavigator/dbnavcancel_200.png svn_mime_002dtype=image%2Fpng
