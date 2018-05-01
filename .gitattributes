@@ -8579,9 +8579,13 @@ lcl/images/lcl_grid_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002ds
 lcl/images/sortasc.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortasc_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortasc_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/sortasc_50.png svn_mime_002dtype=image%2Fpng
+lcl/images/sortasc_75.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortdesc.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortdesc_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/sortdesc_200.png svn_mime_002dtype=image%2Fpng
+lcl/images/sortdesc_50.png svn_mime_002dtype=image%2Fpng
+lcl/images/sortdesc_75.png svn_mime_002dtype=image%2Fpng
 lcl/images/wince/build.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 lcl/images/wince/wincedialog_cancel.png svn_mime_002dtype=application%2Foctet-stream
 lcl/images/wince/wincedialog_ok.PNG svn_mime_002dtype=application%2Foctet-stream
