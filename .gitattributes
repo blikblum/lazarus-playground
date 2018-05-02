@@ -6599,6 +6599,9 @@ examples/openurltest/openurltest.ico svn_mime_002dtype=application%2Foctet-strea
 examples/openurltest/openurltest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/openurltest/openurltest.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/openurltest/openurltest.res svn_mime_002dtype=application%2Foctet-stream
+examples/pascalstream/CopyAsPasPkg/copyaspasdemounit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/pascalstream/CopyAsPasPkg/copyformaspascaldemopkg.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/pascalstream/CopyAsPasPkg/copyformaspascaldemopkg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/pascalstream/PascalStream1.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/pascalstream/PascalStream1.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/pascalstream/unit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
