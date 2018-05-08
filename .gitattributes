@@ -7221,7 +7221,7 @@ images/actions/arrow_up_200.png svn_mime_002dtype=application%2Foctet-stream
 images/actions/autocomplete.png svn_mime_002dtype=application%2Foctet-stream
 images/actions/autocomplete_150.png svn_mime_002dtype=application%2Foctet-stream
 images/actions/autocomplete_200.png svn_mime_002dtype=application%2Foctet-stream
-images/actions/execute.xpm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/actions/execute.png svn_mime_002dtype=application%2Foctet-stream
 images/actions/laz_add.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_add_150.png svn_mime_002dtype=application%2Foctet-stream
 images/actions/laz_add_200.png svn_mime_002dtype=application%2Foctet-stream
@@ -7249,7 +7249,7 @@ images/actions/laz_set_color_default.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_set_colors_default.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_tick.png svn_mime_002dtype=image%2Fpng
 images/actions/laz_wand.png svn_mime_002dtype=image%2Fpng
-images/actions/preferences.xpm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/actions/preferences.png svn_mime_002dtype=application%2Foctet-stream
 images/bookmark.res svn_mime_002dtype=application%2Foctet-stream
 images/bookmark.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 images/bookmark_images.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8303,23 +8303,23 @@ images/splash_source/cheetah.jpg svn_mime_002dtype=image%2Fjpeg
 images/splash_source/cheetah.txt svn_eol_002dstyle=native
 images/splash_source/column.svg svn_eol_002dstyle=native
 images/splash_source/paw.png svn_mime_002dtype=image%2Fpng
-images/states/quickfix12x12.png svn_mime_002dtype=application%2Foctet-stream
-images/states/state12x12_error.png svn_mime_002dtype=application%2Foctet-stream
-images/states/state12x12_fatal.png svn_mime_002dtype=application%2Foctet-stream
-images/states/state12x12_hint.png svn_mime_002dtype=application%2Foctet-stream
-images/states/state12x12_information.png svn_mime_002dtype=application%2Foctet-stream
-images/states/state12x12_note.png svn_mime_002dtype=application%2Foctet-stream
-images/states/state12x12_warning.png svn_mime_002dtype=application%2Foctet-stream
+images/states/quickfix_75.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_circular_reference.png svn_mime_002dtype=image%2Fpng
 images/states/state_error.png svn_mime_002dtype=image%2Fpng
+images/states/state_error_75.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_fatal.png svn_mime_002dtype=image%2Fpng
+images/states/state_fatal_75.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_hint.png svn_mime_002dtype=image%2Fpng
+images/states/state_hint_75.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_information.png svn_mime_002dtype=image%2Fpng
+images/states/state_information_75.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_not_found.png svn_mime_002dtype=image%2Fpng
 images/states/state_note.png svn_mime_002dtype=image%2Fpng
+images/states/state_note_75.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_unit_circular_reference.png svn_mime_002dtype=image%2Fpng
 images/states/state_unknown.png svn_mime_002dtype=image%2Fpng
 images/states/state_warning.png svn_mime_002dtype=image%2Fpng
+images/states/state_warning_75.png svn_mime_002dtype=application%2Foctet-stream
 images/template.png svn_mime_002dtype=image%2Fpng
 images/vase_trans.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 images/windows/win_formeditor.ico svn_mime_002dtype=application%2Foctet-stream
