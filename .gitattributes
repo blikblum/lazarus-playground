@@ -1584,6 +1584,8 @@ components/fpreport/design/frmfpreportvariables.lfm svn_mime_002dtype=text%2Fpla
 components/fpreport/design/frmfpreportvariables.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/frmideselectreportdata.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/frmideselectreportdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmlazreportimportlog.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpreport/design/frmlazreportimportlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/lazfpreportdesign.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/lazfpreportdesign.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpreport/design/lazidefpreport.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
