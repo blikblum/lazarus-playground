@@ -8520,15 +8520,6 @@ lcl/images/cursors/cur_18.cur svn_mime_002dtype=image%2Fx-cursor
 lcl/images/cursors/cur_20.cur svn_mime_002dtype=image%2Fx-cursor
 lcl/images/cursors/cur_21.cur svn_mime_002dtype=image%2Fx-cursor
 lcl/images/cursors/cur_22.cur svn_mime_002dtype=image%2Fx-cursor
-lcl/images/dbgridcheckedcb.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgridcheckedcb_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgridcheckedcb_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgridgrayedcb.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgridgrayedcb_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgridgrayedcb_200.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgriduncheckedcb.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgriduncheckedcb_150.png svn_mime_002dtype=image%2Fpng
-lcl/images/dbgriduncheckedcb_200.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavigator/dbnavcancel.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavigator/dbnavcancel_150.png svn_mime_002dtype=image%2Fpng
 lcl/images/dbnavigator/dbnavcancel_200.png svn_mime_002dtype=image%2Fpng
@@ -8578,8 +8569,6 @@ lcl/images/dock/lcl_dock_to_left.png svn_mime_002dtype=image%2Fpng
 lcl/images/dock/lcl_dock_to_page.png svn_mime_002dtype=image%2Fpng
 lcl/images/dock/lcl_dock_to_right.png svn_mime_002dtype=image%2Fpng
 lcl/images/dock/lcl_dock_to_top.png svn_mime_002dtype=image%2Fpng
-lcl/images/lcl_dbgrid_images.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
-lcl/images/lcl_dbgrid_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/images/lcl_edbtnimg.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 lcl/images/lcl_edbtnimg.sh svn_mime_002dtype=text%2Fx-sh svn_eol_002dstyle=native
 lcl/images/lcl_edbtnimg_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10192,7 +10181,6 @@ lcl/lazhelphtml.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+
 lcl/lazhelpintf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 lcl/lazregions.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/lcl_calc_images.res svn_mime_002dtype=application%2Foctet-stream
-lcl/lcl_dbgrid_images.res svn_mime_002dtype=application%2Foctet-stream
 lcl/lcl_dbnav_images.res svn_mime_002dtype=application%2Foctet-stream
 lcl/lcl_dock_images.res svn_mime_002dtype=application%2Foctet-stream
 lcl/lcl_dock_to_images.res svn_mime_002dtype=application%2Foctet-stream
