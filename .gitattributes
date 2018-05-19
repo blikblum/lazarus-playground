@@ -11461,9 +11461,21 @@ tools/install/win/lazgear.bmp svn_mime_002dtype=application%2Foctet-stream
 tools/install/win/readme.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/install/win/svn2revisioninc.bat svn_mime_002dtype=text%2Fx-msdos-program svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 tools/jsonviewer/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frarest.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frarest.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frarest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmaddtofavourite.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmaddtofavourite.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmaddtofavourite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmauthentication.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmauthentication.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmauthentication.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmcreatecode.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmcreatecode.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmcreatecode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmheader.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmheader.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tools/jsonviewer/frmheader.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmmain.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmmain.lrj svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tools/jsonviewer/frmmain.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
