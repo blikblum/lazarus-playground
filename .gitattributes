@@ -10377,8 +10377,8 @@ packager/globallinks/lazmouseandkeyinput-0.1.lpl svn_mime_002dtype=text%2Fplain 
 packager/globallinks/lazmrumenu-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazopenglcontext-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazparadox-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lazplotfunction-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lazprojectgroups-0.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazplotfunction-0.0.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazprojectgroups-0.7.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazreport-0.9.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazreportpdfexport-0.9.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazsvnpkg-0.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10421,7 +10421,6 @@ packager/globallinks/printers4lazide-0.lpl svn_mime_002dtype=text%2Fplain svn_eo
 packager/globallinks/projtemplates-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/quickfixexample-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/runtimetypeinfocontrols-0.1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-packager/globallinks/rx-1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/sdflaz-0.1.1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/simpleideintf-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/sparta_dockedformeditor-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
