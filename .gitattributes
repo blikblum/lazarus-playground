@@ -551,6 +551,13 @@ components/anchordocking/restoredebugger/ADRestoreDebugger.lpr svn_mime_002dtype
 components/anchordocking/restoredebugger/adlayoutviewer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/restoredebugger/mainunit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/anchordocking/restoredebugger/mainunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/tests/TestAnchorDocking.ico svn_mime_002dtype=image%2Fico
+components/anchordocking/tests/TestAnchorDocking.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/tests/TestAnchorDocking.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/tests/TestAnchorDocking.res svn_mime_002dtype=application%2Foctet-stream
+components/anchordocking/tests/simplefrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/tests/simplefrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/anchordocking/tests/testadrestore.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/cairocanvas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/cairocanvas/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/cairocanvas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
