@@ -8943,6 +8943,7 @@ lcl/interfaces/cocoa/cocoawsmenus.pas svn_mime_002dtype=text%2Fplain svn_eol_002
 lcl/interfaces/cocoa/cocoawsspin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/cocoawsstdctrls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/interfaces.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/cocoa/issues.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/cocoa/mackeycodes.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 lcl/interfaces/customdrawn svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 lcl/interfaces/customdrawn/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
