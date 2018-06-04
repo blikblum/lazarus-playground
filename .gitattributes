@@ -3367,6 +3367,9 @@ components/lazutils/utf8process.pp svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 components/lazutils/winfileutil.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/winlazfileutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/winlazutf8.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lclextensions/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lclextensions/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lclextensions/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lclextensions/delphicompat.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lclextensions/include/carbon/delphicompat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lclextensions/include/carbon/lclext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
