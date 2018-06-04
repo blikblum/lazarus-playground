@@ -5328,6 +5328,9 @@ components/turbopower_ipro/tiphttpdataprovider_200.png svn_mime_002dtype=applica
 components/turbopower_ipro/turbopoweripro.lpk svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/turbopower_ipro/turbopoweripro.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/virtualtreeview/CHANGES.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/virtualtreeview/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/virtualtreeview/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/virtualtreeview/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/virtualtreeview/VTAccessibility.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/virtualtreeview/VTAccessibilityFactory.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/virtualtreeview/VTConfig.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
