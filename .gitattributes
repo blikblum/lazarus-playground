@@ -3568,6 +3568,9 @@ components/multithreadprocs/mtprocs.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 components/multithreadprocs/mtputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/multithreadprocslaz.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/multithreadprocs/multithreadprocslaz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/fpcmod/opkman_httpclient.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/fpcmod/opkman_zip.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/images/1license.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
