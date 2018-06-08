@@ -9250,6 +9250,7 @@ lcl/interfaces/gtk3/gtk3wsmenus.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 lcl/interfaces/gtk3/gtk3wsspin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/gtk3/gtk3wsstdctrls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/gtk3/interfaces.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+lcl/interfaces/gtk3/issues.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/lcl.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/lcl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 lcl/interfaces/mui/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
