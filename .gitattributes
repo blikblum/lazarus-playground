@@ -2028,6 +2028,7 @@ components/ideintf/ideimagesintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002
 components/ideintf/ideintf.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/ideintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/idemsgintf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/ideintf/ideopteditorintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/ideoptionsintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/idetextconverter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/ideutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
