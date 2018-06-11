@@ -3332,7 +3332,6 @@ components/lazutils/lcsvutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dst
 components/lazutils/lookupstringlist.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/maps.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/masks.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/lazutils/modalresultdef.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/paswstring.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/stringhashlist.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/lazutils/test svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
@@ -3362,6 +3361,7 @@ components/lazutils/ttraster.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dsty
 components/lazutils/ttraster_sweep.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/tttables.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/tttypes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazutils/uitypes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/unixfileutil.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/unixlazfileutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/unixlazutf8.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
