@@ -6781,7 +6781,6 @@ ide/abstractsmethodsdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 ide/abstractsmethodsdlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/addtoprojectdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/addtoprojectdlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-ide/advhistorylist.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/allcompileroptions.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/allcompileroptions.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/applicationbundle.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
