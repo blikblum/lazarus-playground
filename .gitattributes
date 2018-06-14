@@ -2593,6 +2593,9 @@ components/lazdebuggers/lazdebuggerfpgdbmi/test/TestFpGdbmi.lpr svn_mime_002dtyp
 components/lazdebuggers/lazdebuggerfpgdbmi/test/fpclist.txt.sample svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfpgdbmi/test/gdblist.txt.sample svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfpgdbmi/test/testwatches.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfplldb/fplldbdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfplldb/lazdebuggerfplldb.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfplldb/lazdebuggerfplldb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lazdebuggerlldb.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lazdebuggerlldb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lldbdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
