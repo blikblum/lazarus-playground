@@ -8354,6 +8354,16 @@ images/states/state_unit_circular_reference.png svn_mime_002dtype=image%2Fpng
 images/states/state_unknown.png svn_mime_002dtype=image%2Fpng
 images/states/state_warning.png svn_mime_002dtype=image%2Fpng
 images/states/state_warning_75.png svn_mime_002dtype=application%2Foctet-stream
+images/svg/debugger/debugger_current_line.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/debugger/debugger_current_line_breakpoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/debugger/debugger_current_line_disabled_breakpoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/sourceeditor/ActiveBreakPoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/sourceeditor/InactiveBreakPoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/sourceeditor/InvalidBreakPoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/sourceeditor/InvalidDisabledBreakPoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/sourceeditor/PendingBreakPoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/sourceeditor/UnknownBreakPoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+images/svg/sourceeditor/UnknownDisabledBreakPoint.svg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 images/template.png svn_mime_002dtype=image%2Fpng
 images/vase_trans.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 images/windows/win_formeditor.ico svn_mime_002dtype=application%2Foctet-stream
