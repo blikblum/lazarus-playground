@@ -6001,6 +6001,12 @@ examples/SynEdit/NewHighlighterTutorial/foldhl.pas svn_mime_002dtype=text%2Fpasc
 examples/SynEdit/NewHighlighterTutorial/simplehl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/SynEdit/NewHighlighterTutorial/unit1.lfm svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/SynEdit/NewHighlighterTutorial/unit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/SynEdit/SearchAndReplace/SynEditSearchExample.lpi svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/SynEdit/SearchAndReplace/SynEditSearchExample.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/SynEdit/SearchAndReplace/UfrmMain.lfm svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/SynEdit/SearchAndReplace/UfrmMain.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/SynEdit/SearchAndReplace/uFrameSearch.lfm svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+examples/SynEdit/SearchAndReplace/uFrameSearch.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 examples/SynEdit/SynAnyHighlighter/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/SynEdit/SynAnyHighlighter/synanysynhighlighter.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/SynEdit/SynAnyHighlighter/synanysynhighlighter.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
