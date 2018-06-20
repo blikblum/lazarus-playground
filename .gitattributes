@@ -10388,7 +10388,7 @@ packager/globallinks/anchordockingdsgn-1.lpl svn_mime_002dtype=text%2Fplain svn_
 packager/globallinks/appforms-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/cairocanvas_pkg-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/chmhelppkg-0.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/cmdlinedebuggerbase.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/cmdlinedebuggerbase-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/cocoa_pkg-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/codetools-1.0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/cody-1.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10436,9 +10436,9 @@ packager/globallinks/lazdbexport-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_00
 packager/globallinks/lazdebuggerfp-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazdebuggerfpdserver-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazdebuggerfpgdbmi-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lazdebuggerfplldb.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazdebuggerfplldb-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazdebuggergdbmi-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/lazdebuggerlldb.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazdebuggerlldb-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazfpreportdesign-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazgoogleapis-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazidefpreport-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
