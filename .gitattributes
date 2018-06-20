@@ -2564,6 +2564,9 @@ components/lazdebuggergdbmi/test/testgdbtype.pas svn_mime_002dtype=text%2Fpascal
 components/lazdebuggergdbmi/test/testinstructionqueue.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/testwatches.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+components/lazdebuggers/cmdlinedebuggerbase/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/cmdlinedebuggerbase/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/cmdlinedebuggerbase/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/cmdlinedebuggerbase/cmdlinedebuggerbase.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/cmdlinedebuggerbase/cmdlinedebuggerbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/cmdlinedebuggerbase/debuginstructions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2596,6 +2599,9 @@ components/lazdebuggers/lazdebuggerfpgdbmi/test/testwatches.pas svn_mime_002dtyp
 components/lazdebuggers/lazdebuggerfplldb/fplldbdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfplldb/lazdebuggerfplldb.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfplldb/lazdebuggerfplldb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerlldb/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerlldb/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerlldb/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lazdebuggerlldb.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lazdebuggerlldb.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lldbdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
