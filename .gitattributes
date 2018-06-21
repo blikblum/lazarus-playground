@@ -10360,6 +10360,8 @@ packager/adddirtopkgdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packager/adddirtopkgdlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/addfiletoapackagedlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/addfiletoapackagedlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+packager/addfpmakedependencydlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/addfpmakedependencydlg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packager/addpkgdependencydlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/addpkgdependencydlg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packager/addtopackagedlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10371,6 +10373,7 @@ packager/cleanpkgdeps.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packager/cleanpkgdeps.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/confirmpkglistdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/confirmpkglistdlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/fppkghelper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packager/frames svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packager/frames/package_description_options.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/frames/package_description_options.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
