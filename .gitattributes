@@ -2015,6 +2015,7 @@ components/ideintf/filefilterpropeditor.lfm svn_mime_002dtype=text%2Fplain svn_e
 components/ideintf/filefilterpropeditor.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/formeditingintf.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/ideintf/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/ideintf/fppkgintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/frmselectprops.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/frmselectprops.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/graphicpropedit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
