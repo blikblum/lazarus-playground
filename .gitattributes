@@ -1260,9 +1260,11 @@ components/debuggerintf/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002d
 components/debuggerintf/dbgintfbasetypes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/debuggerintf/dbgintfdebuggerbase.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/debuggerintf/dbgintfmiscclasses.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/debuggerintf/dbgintfpseudoterminal.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/debuggerintf/debuggerintf.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/debuggerintf/debuggerintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/debuggerintf/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/debuggerintf/ideminilibc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/education/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/education/educationlaz.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/education/educationlaz.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2497,7 +2499,6 @@ components/lazdebuggergdbmi/gdbmimiscclasses.pp svn_mime_002dtype=text%2Fpascal 
 components/lazdebuggergdbmi/gdbmiserverdebugger.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/gdbmistringconstants.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/gdbtypeinfo.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-components/lazdebuggergdbmi/ideminilibc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/languages svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/languages/gdbmiserverdebugger.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -5610,6 +5611,8 @@ debugger/pseudoterminaldlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 debugger/pseudoterminaldlg.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 debugger/registersdlg.lfm svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 debugger/registersdlg.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+debugger/test/watchconsolesize.lpi svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+debugger/test/watchconsolesize.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 debugger/threaddlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debugger/threaddlg.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 debugger/watchesdlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
