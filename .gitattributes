@@ -3458,17 +3458,6 @@ components/leakview/languages/heaptrcview.pt_BR.po svn_mime_002dtype=text%2Fplai
 components/leakview/languages/heaptrcview.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/leakview/languages/heaptrcview.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/leakview/languages/heaptrcview.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.it.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.lt.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.pt_BR.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/leakview/languages/leakinfo.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/leakview/leakinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/leakview/leakview.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/leakview/leakview.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
