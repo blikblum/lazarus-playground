@@ -1783,6 +1783,8 @@ components/fpweb/images/tag_td.png svn_mime_002dtype=image%2Fpng
 components/fpweb/images/tag_tr.png svn_mime_002dtype=image%2Fpng
 components/fpweb/images/tag_u.png svn_mime_002dtype=image%2Fpng
 components/fpweb/images/tag_ul.png svn_mime_002dtype=image%2Fpng
+components/fpweb/images/tfphttpclient.png svn_mime_002dtype=image%2Fpng
+components/fpweb/images/tfphttpserver.png svn_mime_002dtype=image%2Fpng
 components/fpweb/images/tfphttpwebclient.png svn_mime_002dtype=image%2Fpng
 components/fpweb/languages svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/fpweb/languages/fpwebstrconsts.cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
