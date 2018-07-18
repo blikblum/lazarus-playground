@@ -5602,6 +5602,8 @@ debugger/pseudoterminaldlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 debugger/pseudoterminaldlg.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 debugger/registersdlg.lfm svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 debugger/registersdlg.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+debugger/test/testconsolescroll.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+debugger/test/testconsolescroll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debugger/test/watchconsolesize.lpi svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 debugger/test/watchconsolesize.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 debugger/threaddlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
