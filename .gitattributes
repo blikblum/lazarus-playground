@@ -4763,6 +4763,10 @@ components/tachart/demo/animate/Main.lfm svn_mime_002dtype=text%2Fplain svn_eol_
 components/tachart/demo/animate/Main.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/tachart/demo/animate/animatedemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/animate/animatedemo.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/tachart/demo/area/areaseriesdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/area/areaseriesdemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/area/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/demo/area/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/axis svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/tachart/demo/axis/axisdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/demo/axis/axisdemo.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
