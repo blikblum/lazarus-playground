@@ -793,6 +793,7 @@ begin
   if not AWinControl.HandleObjectShouldBeVisible and not (csDesigning in AWinControl.ComponentState) then
     gtk_widget_hide(p);
   SetCallbacks(p, WidgetInfo);
+  TGtk2WSWinControl.InitializeWidget(p, AParams);
 end;
 
 class procedure TGtk2WSCustomListBox.SetCallbacks(const AGtkWidget: PGtkWidget;
@@ -1203,6 +1204,7 @@ begin
   WidgetInfo := CreateWidgetInfo({%H-}Pointer(Result), AWinControl, AParams);
   Set_RC_Name(AWinControl, Widget);
   SetCallbacks(Widget, WidgetInfo);
+  TGtk2WSWinControl.InitializeWidget(Widget, AParams);
 
   if Result <> 0 then
   begin
@@ -2250,6 +2252,7 @@ begin
     gtk_widget_show(Box);
 
   Result := TLCLIntfHandle({%H-}PtrUInt(Box));
+  TGtk2WSWinControl.InitializeWidget(Box, AParams);
 end;
 
 class procedure TGtk2WSCustomComboBox.DestroyHandle(
@@ -2361,6 +2364,7 @@ begin
 
   Set_RC_Name(AWinControl, FrameBox);
   SetCallbacks(FrameBox, WidgetInfo);
+  TGtk2WSWinControl.InitializeWidget(FrameBox, AParams);
 end;
 
 class procedure TGtk2WSCustomGroupBox.SetColor(const AWinControl: TWinControl);
@@ -2573,7 +2577,7 @@ begin
 
   Set_RC_Name(AWinControl, EventBox);
   SetCallbacks(EventBox, WidgetInfo);
-
+  TGtk2WSWinControl.InitializeWidget(EventBox, AParams);
   if AParams.Style and WS_VISIBLE = 0 then
     gtk_widget_hide(EventBox)
   else
@@ -2713,6 +2717,7 @@ begin
 
   Set_RC_Name(AWinControl, Widget);
   SetCallbacks(Widget, WidgetInfo);
+  TGtk2WSWinControl.InitializeWidget(Widget, AParams);
 end;
 
 class procedure TGtk2WSScrollBar.SetKind(const AScrollBar: TCustomScrollBar;
@@ -2812,6 +2817,7 @@ begin
 
   Set_RC_Name(AWinControl, Widget);
   TGtk2WSCustomCheckBox.SetCallbacks(Widget, WidgetInfo);
+  TGtk2WSWinControl.InitializeWidget(Widget, AParams);
 end;
 
 { TGtk2WSToggleBox }
@@ -2838,6 +2844,7 @@ begin
 
   Set_RC_Name(AWinControl, Widget);
   TGtk2WSCustomCheckBox.SetCallbacks(Widget, WidgetInfo);
+  TGtk2WSWinControl.InitializeWidget(Widget, AParams);
 end;
 
 { TGtk2WSCustomStaticText }
@@ -2901,6 +2908,7 @@ begin
 
   Set_RC_Name(AWinControl, {%H-}PGtkWidget(Result));
   SetCallbacks({%H-}PGtkWidget(Result), WidgetInfo);
+  TGtk2WSWinControl.InitializeWidget({%H-}PGtkWidget(Result), AParams);
 end;
 
 class procedure TGtk2WSCustomStaticText.SetAlignment(const ACustomStaticText: TCustomStaticText;

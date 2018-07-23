@@ -70,6 +70,7 @@ type
   protected
   public
     // Internal public
+    class procedure InitializeWidget(const Widget: PGtkWidget; const AParams: TCreateParams);
     class procedure SetCallbacks(const AGTKObject: PGTKObject; const AComponent: TComponent);
   published
     class function CreateHandle(const AWinControl: TWinControl; const AParams: TCreateParams): HWND; override;
@@ -232,6 +233,7 @@ begin
     TGCallback(@Gtk2RangeScrollReleaseCB), WidgetInfo);
 
   g_signal_connect(Widget, 'scroll-event', TGCallback(@Gtk2ScrolledWindowScrollCB), WidgetInfo);
+  //InitializeWidget(Widget, AParams);
 end;
 
 class procedure TGtk2WSWinControl.SetBiDiMode(const AWinControl : TWinControl;
@@ -755,6 +757,12 @@ begin
   end;
 end;
 
+class procedure TGtk2WSWinControl.InitializeWidget(const Widget: PGtkWidget;
+  const AParams: TCreateParams);
+begin
+  if AParams.Style and WS_DISABLED <> 0 then
+    gtk_widget_set_sensitive(Widget, False);
+end;
 
 class procedure TGtk2WSWinControl.SetCallbacks(const AGTKObject: PGTKObject;
   const AComponent: TComponent);
