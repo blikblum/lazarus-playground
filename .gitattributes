@@ -3344,12 +3344,12 @@ components/lazutils/lazloggerdummy.pas svn_mime_002dtype=text%2Fpascal svn_eol_0
 components/lazutils/lazloggerprofiling.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazmethodlist.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazpasreadutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazutils/lazsysutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/laztracer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazunicode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/lazutf16.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazutf8.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazutf8classes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/lazutils/lazutf8sysutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazutils/lazutilities.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/lazutils.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazutils/lazutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
