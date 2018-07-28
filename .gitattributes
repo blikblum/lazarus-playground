@@ -6923,6 +6923,8 @@ ide/exttooldialog.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+I
 ide/exttooleditdlg.lfm svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/exttooleditdlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/exttools.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+ide/exttoolsconsole.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+ide/exttoolside.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 ide/filereferencelist.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/findinfilesdlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/findinfilesdlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
