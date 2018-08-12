@@ -8425,6 +8425,8 @@ images/states/state_unit_circular_reference.png svn_mime_002dtype=image%2Fpng
 images/states/state_unknown.png svn_mime_002dtype=image%2Fpng
 images/states/state_unknown_75.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_warning.png svn_mime_002dtype=image%2Fpng
+images/states/state_warning_150.png svn_mime_002dtype=application%2Foctet-stream
+images/states/state_warning_200.png svn_mime_002dtype=application%2Foctet-stream
 images/states/state_warning_75.png svn_mime_002dtype=application%2Foctet-stream
 images/template.png svn_mime_002dtype=image%2Fpng
 images/vase_trans.xpm svn_mime_002dtype=image%2Fx-xpixmap svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
