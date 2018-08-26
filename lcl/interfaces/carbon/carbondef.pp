@@ -730,7 +730,9 @@ begin
   FBoundsReported := False;
   
   CreateWidget(AParams);
-  
+  if (AParams.Style and WS_DISABLED) > 0 then
+    Enable(False);
+
   {$IFDEF VerboseWidget}
     DebugLn('TCarbonWidget.Create ', ClassName, ' ', LCLObject.Name, ': ',
       LCLObject.ClassName);
