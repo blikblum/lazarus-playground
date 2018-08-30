@@ -7186,8 +7186,8 @@ ide/projectuserresources.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=n
 ide/projectwizarddlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/projectwizarddlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/publishmodule.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-ide/publishprojectdlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
-ide/publishprojectdlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+ide/publishmoduledlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+ide/publishmoduledlg.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 ide/qfinitlocalvardlg.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/qfinitlocalvardlg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/raw_window.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
