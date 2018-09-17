@@ -6538,6 +6538,10 @@ examples/jpeg/jpegexample.lpr svn_mime_002dtype=text%2Fpascal svn_keywords=Autho
 examples/jpeg/lazarus.jpg svn_mime_002dtype=image%2Fjpeg
 examples/jpeg/mainform.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 examples/jpeg/mainform.pas svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
+examples/jpeg_more/jpeg_test.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/jpeg_more/jpeg_test.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/jpeg_more/main.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+examples/jpeg_more/main.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/lazfreetype/lazfreetypetest.ico svn_mime_002dtype=application%2Foctet-stream
 examples/lazfreetype/lazfreetypetest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 examples/lazfreetype/lazfreetypetest.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
