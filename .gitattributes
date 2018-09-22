@@ -2120,6 +2120,12 @@ components/ideintf/toolbarintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 components/ideintf/treeviewpropedit.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/treeviewpropedit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/ideintf/unitresources.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/idespotter/ReadMe.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/idespotter/frmspotter.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/idespotter/frmspotter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/idespotter/idespotter.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/idespotter/idespotter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/idespotter/regidespotter.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/images/examples/README.txt svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/images/examples/imagesexample.lpi svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/images/examples/imagesexample.lpr svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
