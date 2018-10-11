@@ -2044,12 +2044,22 @@ components/ideintf/imagelisteditor.lfm svn_mime_002dtype=text%2Fplain svn_eol_00
 components/ideintf/imagelisteditor.pp svn_mime_002dtype=text%2Fpascal svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 components/ideintf/images/build.bat svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/images/delete_selection.png svn_mime_002dtype=application%2Foctet-stream
+components/ideintf/images/delete_selection_150.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/delete_selection_200.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/ideintf_images.res svn_mime_002dtype=application%2Foctet-stream
 components/ideintf/images/ideintf_images_list.txt svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/ideintf/images/laz_copy.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/laz_copy_150.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/laz_copy_200.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/laz_cut.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/laz_cut_150.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/laz_cut_200.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/laz_paste.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/laz_paste_150.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/laz_paste_200.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/oi_options.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/oi_options_150.png svn_mime_002dtype=image%2Fpng
+components/ideintf/images/oi_options_200.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/propertygrid/issue_carbon.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/propertygrid/issue_fpgui.png svn_mime_002dtype=image%2Fpng
 components/ideintf/images/propertygrid/issue_gtk.png svn_mime_002dtype=image%2Fpng
