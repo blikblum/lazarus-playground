@@ -8097,11 +8097,23 @@ images/lazaruspackage.ico svn_mime_002dtype=image%2Fx-icon
 images/lazdoc.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 images/lazdoc.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 images/lazdoc/formatbold.png svn_mime_002dtype=application%2Foctet-stream
+images/lazdoc/formatbold_150.png svn_mime_002dtype=image%2Fpng
+images/lazdoc/formatbold_200.png svn_mime_002dtype=image%2Fpng
 images/lazdoc/formatitalic.png svn_mime_002dtype=application%2Foctet-stream
+images/lazdoc/formatitalic_150.png svn_mime_002dtype=image%2Fpng
+images/lazdoc/formatitalic_200.png svn_mime_002dtype=image%2Fpng
 images/lazdoc/formatunderline.png svn_mime_002dtype=application%2Foctet-stream
+images/lazdoc/formatunderline_150.png svn_mime_002dtype=image%2Fpng
+images/lazdoc/formatunderline_200.png svn_mime_002dtype=image%2Fpng
 images/lazdoc/insertcodetag.png svn_mime_002dtype=application%2Foctet-stream
+images/lazdoc/insertcodetag_150.png svn_mime_002dtype=image%2Fpng
+images/lazdoc/insertcodetag_200.png svn_mime_002dtype=image%2Fpng
 images/lazdoc/insertremark.png svn_mime_002dtype=application%2Foctet-stream
+images/lazdoc/insertremark_150.png svn_mime_002dtype=image%2Fpng
+images/lazdoc/insertremark_200.png svn_mime_002dtype=image%2Fpng
 images/lazdoc/insertvartag.png svn_mime_002dtype=application%2Foctet-stream
+images/lazdoc/insertvartag_150.png svn_mime_002dtype=image%2Fpng
+images/lazdoc/insertvartag_200.png svn_mime_002dtype=image%2Fpng
 images/lprfile.ico svn_mime_002dtype=image%2Fx-icon
 images/mainicon.ico svn_mime_002dtype=image%2Fico
 images/mainiconproject.ico svn_mime_002dtype=image%2Fx-icon
