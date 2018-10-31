@@ -3775,7 +3775,6 @@ components/onlinepackagemanager/opkman_showhint.lfm svn_mime_002dtype=plain%2Fte
 components/onlinepackagemanager/opkman_showhint.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_showhintbase.lfm svn_mime_002dtype=plain%2Ftext svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_showhintbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/onlinepackagemanager/opkman_timer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_updates.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_uploader.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_visualtree.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
