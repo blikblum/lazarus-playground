@@ -5422,6 +5422,57 @@ components/virtualtreeview/VTIDEEditors.pas svn_mime_002dtype=text%2Fpascal svn_
 components/virtualtreeview/VirtualTrees.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/virtualtreeview/VirtualTrees.res svn_mime_002dtype=application%2Foctet-stream
 components/virtualtreeview/ideicons.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/virtualtreeview/images/make_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/virtualtreeview/images/virtualtrees_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/virtualtreeview/images/vt_check_dark.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_check_dark_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_check_dark_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_check_light.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_check_light_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_check_light_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_flat.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_flat_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_flat_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_headersplit.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_moveall.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_moveall_bmp.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_moveall_bmp_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_moveall_bmp_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_movee.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_moveew.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_moveew_bmp.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_moveew_bmp_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_moveew_bmp_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_moven.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_movene.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_movens.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_movens_bmp.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_movens_bmp_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_movens_bmp_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_movenw.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_moves.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_movese.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_movesw.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_movew.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_tick_dark.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_tick_dark_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_tick_dark_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_tick_light.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_tick_light_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_tick_light_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_utilities.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_utilities_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_utilities_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_vertsplit.cur svn_mime_002dtype=image%2Fx-icon
+components/virtualtreeview/images/vt_xp.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xp_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xp_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xpbuttonminus.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xpbuttonminus_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xpbuttonminus_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xpbuttonplus.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xpbuttonplus_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/vt_xpbuttonplus_200.png svn_mime_002dtype=image%2Fpng
 components/virtualtreeview/include/intf/carbon/olemethods.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/virtualtreeview/include/intf/carbon/vtgraphicsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/virtualtreeview/include/intf/carbon/vtvdragmanager.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
