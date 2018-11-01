@@ -3646,6 +3646,36 @@ components/onlinepackagemanager/fpcmod/opkman_zip.pas svn_mime_002dtype=text%2Fp
 components/onlinepackagemanager/images/1license.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/images/Copyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/images/ImageCopyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/images/ToolBar/00[!!-~]Refresh.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/00[!!-~]Refresh_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/00[!!-~]Refresh_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/01[!!-~]Download.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/01[!!-~]Download_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/01[!!-~]Download_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/02[!!-~]Install.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/02[!!-~]Install_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/02[!!-~]Install_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/03[!!-~]Update.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/03[!!-~]Update_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/03[!!-~]Update_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/04[!!-~]Uninstall.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/04[!!-~]Uninstall_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/04[!!-~]Uninstall_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/05[!!-~]LocalRepo.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/05[!!-~]LocalRepo_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/05[!!-~]LocalRepo_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/06[!!-~]CleanUp.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/06[!!-~]CleanUp_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/06[!!-~]CleanUp_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/07[!!-~]Repository.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/07[!!-~]Repository_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/07[!!-~]Repository_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/08[!!-~]Options.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/08[!!-~]Options_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/08[!!-~]Options_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/09[!!-~]Help.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/09[!!-~]Help_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ToolBar/09[!!-~]Help_200.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/ToolBar/Dis/00[!!-~]Refresh.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/ToolBar/Dis/01[!!-~]Filter.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/ToolBar/Dis/02[!!-~]Download.png svn_mime_002dtype=image%2Fpng
