@@ -8059,11 +8059,23 @@ images/components_images_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 images/componenttreeview.bat svn_mime_002dtype=text%2Fx-msdos-program svn_eol_002dstyle=native
 images/componenttreeview.res svn_mime_002dtype=application%2Foctet-stream
 images/componenttreeview/oi_box.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_box_150.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_box_200.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview/oi_collection.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_collection_150.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_collection_200.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview/oi_comp.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_comp_150.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_comp_200.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview/oi_control.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_control_150.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_control_200.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview/oi_form.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_form_150.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_form_200.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview/oi_item.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_item_150.png svn_mime_002dtype=image%2Fpng
+images/componenttreeview/oi_item_200.png svn_mime_002dtype=image%2Fpng
 images/componenttreeview_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 images/copyright.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 images/debugger/callstack_bottom.png svn_mime_002dtype=application%2Foctet-stream
