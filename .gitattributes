@@ -5549,7 +5549,20 @@ components/virtualtreeview/VTHeaderPopup.pas svn_mime_002dtype=text%2Fpascal svn
 components/virtualtreeview/VTIDEEditors.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/virtualtreeview/VirtualTrees.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/virtualtreeview/VirtualTrees.res svn_mime_002dtype=application%2Foctet-stream
-components/virtualtreeview/ideicons.lrs svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/virtualtreeview/ideicons.res svn_mime_002dtype=application%2Foctet-stream
+components/virtualtreeview/images/components/tvirtualdrawtree.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualdrawtree_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualdrawtree_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualexplorertree.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualexplorertree_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualexplorertree_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualstringtree.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualstringtree_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvirtualstringtree_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvtheaderpopupmenu.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvtheaderpopupmenu_150.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/components/tvtheaderpopupmenu_200.png svn_mime_002dtype=image%2Fpng
+components/virtualtreeview/images/ideicons_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/virtualtreeview/images/make_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/virtualtreeview/images/virtualtrees_list.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/virtualtreeview/images/vt_check_dark.png svn_mime_002dtype=image%2Fpng
