@@ -3825,6 +3825,9 @@ components/onlinepackagemanager/images/Tree_Buttons/magnifier-plus_200.png svn_m
 components/onlinepackagemanager/images/Tree_Buttons/package_del.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/package_del_150.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/package_del_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/package_minus.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/package_minus_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/Tree_Buttons/package_minus_200.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
