@@ -4056,6 +4056,7 @@ components/printers/carbon/ppdresolution.pas svn_mime_002dtype=text%2Fpascal svn
 components/printers/cocoa/cocoaprintcanvas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/cocoa/cocoaprinters.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/cocoa/cocoaprinters_h.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/printers/cocoa/cocoaprndelegate.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/printers/cocoa/cocoaprndialogs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/design/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/printers/design/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
