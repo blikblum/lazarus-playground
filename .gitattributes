@@ -1394,6 +1394,9 @@ components/fpcunit/languages/guitestrunner.ru.po svn_mime_002dtype=text%2Fplain 
 components/fpcunit/languages/guitestrunner.uk.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpcunit/languages/guitestrunner.zh_CN.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpdebug svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+components/fpdebug/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpdebug/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fpdebug/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fpdebug/README_DUBY.txt svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fpdebug/README_macho.txt svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fpdebug/app svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
