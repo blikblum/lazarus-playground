@@ -2654,6 +2654,9 @@ components/lazdebuggers/lazdebuggerfpgdbmi/test/TestFpGdbmi.lpr svn_mime_002dtyp
 components/lazdebuggers/lazdebuggerfpgdbmi/test/fpclist.txt.sample svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfpgdbmi/test/gdblist.txt.sample svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfpgdbmi/test/testwatches.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfplldb/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfplldb/Makefile.compiled svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfplldb/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfplldb/fplldbdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfplldb/gpl-2.0.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfplldb/gpl-3.0.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
