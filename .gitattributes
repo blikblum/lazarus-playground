@@ -3833,6 +3833,11 @@ components/onlinepackagemanager/images/Tree_Buttons/package_del_200.png svn_mime
 components/onlinepackagemanager/images/Tree_Buttons/package_minus.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/package_minus_150.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/Tree_Buttons/package_minus_200.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/build_res.bat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/images/filelist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/onlinepackagemanager/images/ide/pkg_opm.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ide/pkg_opm_150.png svn_mime_002dtype=image%2Fpng
+components/onlinepackagemanager/images/ide/pkg_opm_200.png svn_mime_002dtype=image%2Fpng
 components/onlinepackagemanager/images/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.de.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/languages/opkman_const.es.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3864,6 +3869,7 @@ components/onlinepackagemanager/onlinepackagemanager.lpk svn_mime_002dtype=text%
 components/onlinepackagemanager/onlinepackagemanager.lps svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/onlinepackagemanager.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/onlinepackagemanagerintf.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/onlinepackagemanager/opkman.res svn_mime_002dtype=application%2Foctet-stream
 components/onlinepackagemanager/opkman_addrepositorypackagefrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_addrepositorypackagefrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/onlinepackagemanager/opkman_categoriesfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
