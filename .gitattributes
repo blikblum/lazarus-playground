@@ -2608,11 +2608,8 @@ components/lazdebuggergdbmi/test/gdb[!!-~]responses/ptype_whatis_for_enum_set.tx
 components/lazdebuggergdbmi/test/gdb[!!-~]responses/ptype_whatis_for_object.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/gdblist.txt.sample svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/gdbmitestutils svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
-components/lazdebuggergdbmi/test/gdbmitestutils/compilehelpers.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/gdbmitestutils/gdbmitestutils.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/gdbmitestutils/testbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-components/lazdebuggergdbmi/test/gdbmitestutils/testgdbmicontrol.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-components/lazdebuggergdbmi/test/gdbmitestutils/testgdbmicontrol.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/gdbmitestutils/testwatchutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/rungdbmiform.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggergdbmi/test/rungdbmiform.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -2677,6 +2674,18 @@ components/lazdebuggers/lazdebuggerlldb/lazdebuggerlldb.pas svn_mime_002dtype=te
 components/lazdebuggers/lazdebuggerlldb/lldbdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lldbhelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerlldb/lldbinstructions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/lazdebugtestbase.lpk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/lazdebugtestbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testdbgcompilerprocess.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testdbgconfig.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testdbgcontrol.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testdbgcontrolform.lfm svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testdbgcontrolform.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testdbgtestsuites.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testoutputlogger.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/ttestdbgexecuteables.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/ttestdebuggerclasses.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/ttestwatchutilities.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazreport/doc/contributors.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazreport/doc/fr_eng.odt svn_mime_002dtype=application%2Foctet-stream
 components/lazreport/doc/fr_eng.pdf svn_mime_002dtype=application%2Foctet-stream
@@ -11125,6 +11134,7 @@ packager/globallinks/lazdebuggerfpgdbmi-0.1.lpl svn_mime_002dtype=text%2Fplain s
 packager/globallinks/lazdebuggerfplldb-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazdebuggergdbmi-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazdebuggerlldb-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/lazdebugtestbase-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazfpreportdesign-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazgoogleapis-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazidefpreport-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
