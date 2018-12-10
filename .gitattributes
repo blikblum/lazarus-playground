@@ -2641,6 +2641,7 @@ components/lazdebuggers/lazdebuggerfp/test/LazDebFpTest.lpi svn_mime_002dtype=te
 components/lazdebuggers/lazdebuggerfp/test/LazDebFpTest.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/fpclist.txt.sample svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/testbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfp/test/testvarious.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/testwatches.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfpdserver/fpdserverdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfpdserver/fpdserverdebuggercommands.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2687,6 +2688,8 @@ components/lazdebuggers/lazdebugtestbase/sources.rc svn_mime_002dtype=text%2Fpas
 components/lazdebuggers/lazdebugtestbase/testapps/WatchesScopePrg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebugtestbase/testapps/WatchesScopeUnit1.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebugtestbase/testapps/WatchesScopeUnit2.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testapps/WatchesValuePrg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebugtestbase/testapps/WatchesValuePrgIdent.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebugtestbase/testcommonsources.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebugtestbase/testdbgcompilerprocess.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebugtestbase/testdbgconfig.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
