@@ -1526,6 +1526,8 @@ components/fppkg/src/fppkg_mainfrm.lrj svn_mime_002dtype=text%2Fplain svn_eol_00
 components/fppkg/src/fppkg_mainfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/src/fppkg_optionsfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/src/fppkg_optionsfrm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_packagefileoptionsfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/fppkg/src/fppkg_packagefileoptionsfrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fppkg/src/fppkg_packageoptionsfrm.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/fppkg/src/fppkg_packageoptionsfrm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/fppkg/src/fppkg_packagevariant.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
