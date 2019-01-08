@@ -4964,6 +4964,7 @@ components/synedit/test/testpaintcolormerging.pas svn_mime_002dtype=text%2Fpasca
 components/synedit/test/testsearch.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testsynbeautifier.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testsyncroedit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/synedit/test/testsynmulticaret.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testsynselection.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testsynsharededits.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/synedit/test/testsyntextarea.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
