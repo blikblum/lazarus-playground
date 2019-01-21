@@ -11185,6 +11185,7 @@ packager/globallinks/imagesforlazarus-1.0.1.lpl svn_mime_002dtype=text%2Fplain s
 packager/globallinks/instantfpclaz-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/jcfidelazarus-2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/jumptoimplementation-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packager/globallinks/laz.virtualtreeview_package-5.5.3.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazactivex-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazc-0.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/lazcontroldsgn-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11273,7 +11274,6 @@ packager/globallinks/tachartwmf-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002
 packager/globallinks/todolistlaz-1.0.2.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/turbopoweripro-1.lpl svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
 packager/globallinks/turbopoweriprodsgn-0.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packager/globallinks/virtualtreeview_package-5.5.3.1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/weblaz-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/globallinks/xmlresource-1.lpl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packager/installpkgsetdlg.lfm svn_mime_002dtype=text%2Fplain svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=native
