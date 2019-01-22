@@ -2662,7 +2662,9 @@ components/lazdebuggers/lazdebuggerfp/lazdebuggerfp.pas svn_mime_002dtype=text%2
 components/lazdebuggers/lazdebuggerfp/test/LazDebFpTest.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/LazDebFpTest.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/fpclist.txt.sample svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfp/test/testapps/BreakPointPrg.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/testbase.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/lazdebuggers/lazdebuggerfp/test/testbreakpoint.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/testvarious.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfp/test/testwatches.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 components/lazdebuggers/lazdebuggerfpdserver/fpdserverdebugger.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
