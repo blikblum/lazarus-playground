@@ -5882,6 +5882,7 @@ debian/overrides/lcl-utils svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 debian/patches/default_config.diff svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/patches/lcl-with-multple-widget-sets.diff svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/patches/series svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+debian/po/.pocheckerignore svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/POTFILES.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/cs.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 debian/po/da.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
