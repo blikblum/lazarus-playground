@@ -6326,7 +6326,6 @@ docs/xml/lcl/stdctrls/tcustomcheckbox_allowgrayed.pas svn_mime_002dtype=text%2Fp
 docs/xml/lcl/themes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/tmschema.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/toolwin.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
-docs/xml/lcl/utf8process.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/utrace.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/valedit.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/wscontrols.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
