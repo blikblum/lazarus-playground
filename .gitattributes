@@ -6287,7 +6287,6 @@ docs/xml/lcl/lazfreetypeintfdrawer.xml svn_mime_002dtype=text%2Fplain svn_eol_00
 docs/xml/lcl/lazhelphtml.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazhelpintf.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lazregions.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-docs/xml/lcl/lazutf8classes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lcl.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=LF
 docs/xml/lcl/lclbase.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/lclclasses.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
