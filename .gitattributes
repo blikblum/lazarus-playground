@@ -2192,6 +2192,7 @@ components/idescout/idescout.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 components/idescout/idescoutoptions.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/idescout/idescoutoptions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/idescout/idescoutstrconsts.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+components/idescout/languages/idescoutstrconsts.fr.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/idescout/languages/idescoutstrconsts.hu.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/idescout/languages/idescoutstrconsts.pot svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/idescout/languages/idescoutstrconsts.ru.po svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
