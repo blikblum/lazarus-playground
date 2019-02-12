@@ -5284,6 +5284,7 @@ components/tachart/fpdoc/descr.lst svn_mime_002dtype=text%2Fplain svn_eol_002dst
 components/tachart/fpdoc/html svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 components/tachart/fpdoc/input.lst svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/tachartaxis.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/fpdoc/tachartaxisutils.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 components/tachart/fpdoc/tachartutils.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/tacustomseries.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/tadbsource.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
