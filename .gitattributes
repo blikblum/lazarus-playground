@@ -5288,6 +5288,7 @@ components/tachart/fpdoc/tachartaxisutils.xml svn_mime_002dtype=text%2Fxml svn_e
 components/tachart/fpdoc/tachartutils.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/tacustomseries.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/tadbsource.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+components/tachart/fpdoc/tadrawutils.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 components/tachart/fpdoc/tageometry.xml svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 components/tachart/fpdoc/tagraph.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 components/tachart/fpdoc/talegend.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
