@@ -6127,6 +6127,7 @@ docs/xml/lazutils/extendedstrings.xml svn_mime_002dtype=text%2Fplain svn_eol_002
 docs/xml/lazutils/fileutil.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/fpcadds.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lazutils/fpmake.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/html2textrender.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/laz2_dom.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/laz2_xmlread.xml svnc_laz2_005fdom_002exml=laz2_xmlcfg.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6187,6 +6188,7 @@ docs/xml/lazutils/ttprofile.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 docs/xml/lazutils/ttraster.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/tttables.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/tttypes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+docs/xml/lazutils/uitypes.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lazutils/utf8process.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 docs/xml/lcl/actnlist.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
 docs/xml/lcl/alllclunits.xml svn_mime_002dtype=text%2Fxml svn_keywords=Author+Date+Id+Revision svn_eol_002dstyle=LF
